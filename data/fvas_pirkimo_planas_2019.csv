@@ -147,6 +147,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;221;10106000;70;Prekės;158;15842100-3;"Suvenyriniai šokoladai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52086;11224;A252-392/19(3.10.15E-AD8);14-JUN-19;3629.99
 2019;SAV-2019;10200;112;Paslaugos;508;50800000-3;"Pastato, Konstitucijos pr.3,  įvairios remonto ir priežiūros paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52507;11281;A64-237/19;28-JUN-19;12098.79
 2019;SAV-2019;10200;14;Paslaugos;507;50700000-2;"Remonto ir priežiūros paslaugos, susijusios su pastatais";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53106;11321;A64-300/19;14-AUG-19;9999
+2019;RKS2019;1400300;5;Paslaugos;798;79822500-7;"Grafinio dizaino paslaugos";188710061;"2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53506;11350;A64-308/19;26-AUG-19;5775
 2019;MUTD-MTAAS;1017110;15;Paslaugos;508;50870000-4;"Vaikų žaidimo aikštelių įrenginių priežiūros paslaugos";188751791;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;48226;11099;A64-215/19;20-JUN-19;1726217.6
 2019;221;10106000;59;Paslaugos;920;92000000-1;"Kultūrinių renginių organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49367;11104;A252-127/19(3.10.15E-AD8)-4;14-JUN-19;12099.99
 2019;S19/2019/1;1012600;3;Prekės;374;37410000-5;"Stacionarūs sporto įrenginiai ir jų montavimas";188710061;"Viršuliškių seniūnijos 2019 metų pirkimų planas.";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52266;11112;A68-55/19;27-JUN-19;5808
@@ -190,6 +191,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;EMD19;15000;35;Prekės;302;30231100-8;"Eilių valdymo sistemos terminalas";15000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;51848;11239;A252-362/19;07-JUN-19;3628.79
 2019;221;10106000;9;Prekės;228;22815000-6;"Užrašinės su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;49491;11241;A252-139/19(3.10.15E-AD8);03-JUN-19;3628.79
 2019;MUTD_SKS;17120;20;Darbai;Darbai;45233252-0;"Versmių g. atkarpos nuo Taugotiškių g. iki Bagušių g. ir Vlado Mirono g. atkarpos nuo Versmių g. iki žemės sklypo, adresu Vlado Mirono g. 8, statybos darbai";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;49870;11267;A62-150-19;29-JUL-19;2276486.98
+2019;KS3-2019;30100;4;Paslaugos;732;73210000-7;"ES projekto ,,Bendradarbiavimas su kūrybinėmis laboratorijomis ir centrais“ eksperto - tyrėjo paslaugos";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;53008;11336;A64-307/19;26-AUG-19;11495
 2019;SAV-2019;10200;1;Darbai;Darbai;45442100-8;"Pastato kabinetų dažymo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49127;11138;A62-107/19;17-JUN-19;11991.1
 2019;S14-2019;1012100;3;Darbai;Darbai;45420000-7;"Senamiesčio rinkimų apylinkių inventoriaus montavimo, išmontavimo ir remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48668;11154;A62-22/19;11-FEB-19;1651.65
 2019;SAV-2019;10200;5;Darbai;Darbai;45310000-3;"Konstitucijos pr. 3 pastato kabinetų elektros instaliacijos montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;48990;11110;A62-72/19;07-MAY-19;11979
@@ -198,10 +200,17 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD-MTAAS;1017110;13;Darbai;Darbai;45240000-1;"Vilniaus miesto fontanų remontas";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;50389;11286;A62-151/19;01-AUG-19;175449.99
 2019;VTS-2019;16400;27;Paslaugos;797;79710000-4;"Apsaugos paslaugos";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51806;11299;A64-244/19;09-JUL-19;
 2019;CSS-2019;16100;6;Prekės;181;18100000-0;"Asmeninės apsaugos drabužiai";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;48986;11322;A68-80/19;08-AUG-19;4215
+2019;KS3-2019;30100;2;Paslaugos;732;73210000-7;"ES projekto Kūrybiniai uostai eksperto paslaugos";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;53007;11337;A64-306/19;26-AUG-19;5687
+2019;KS3-2019;30100;2;Paslaugos;732;73210000-7;"ES projekto Kūrybiniai uostai eksperto paslaugos";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;53007;11338;"A64- 306/19";26-AUG-19;5687
 2019;CSS-2019;16100;14;Prekės;336;33642300-5;"Kalio jodido tabletės";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51927;11120;;27-JUN-19;800
 2019;SAV-2019;10200;84;Darbai;Darbai;45442100-8;"Dviratininkų patalpų dažymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51269;11126;A68-84/19;22-MAY-19;12087.9
 2019;SAV-2019;10200;95;Darbai;Darbai;45331200-8;"Kondicionieriaus remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51690;11141;A62-89/19;30-MAY-19;1859.77
 2019;SAUG2019;16000;2;Paslaugos;503;50300000-8;"Vaizdo transliavimo,  priežiūros ir remonto paslaugos";188710061;"Saugaus miesto departamentas";3;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52346;11268;A64-264/19;26-JUL-19;12098.52
+2019;SIS-2019;1090100;13;Prekės;301;30197620-8;"Biuro popierius";188712831;"Socialinių išmokų skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;53286;11344;A68-85/19;27-AUG-19;18198.4
+2019;EMD19;15000;32;Paslaugos;723;72300000-8;"Teisės aktų tvarkymo paslaugos pirkimas";15000;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;50806;11352;A64-304/19;22-AUG-19;92962.8
+2019;221;10106000;28;Paslaugos;799;79970000-4;"Spalvinimo plakato su dėklu  gamyba";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52887;11353;A64-288/19;07-AUG-19;5929
+2019;221;10106000;23;Paslaugos;794;79416000-3;"Svetingumo konkurso viešinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52886;11354;A64-273/19;05-AUG-19;8349
+2019;221;10106000;28;Paslaugos;799;79970000-4;"Spalvinimo plakato su dėklu  gamyba";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52887;11357;;07-AUG-19;5929
 2019;MUTD_IS;17200;4;Darbai;Darbai;45233162-2;"Pilaitės prospekto nuo Sietyno g. iki Laisvės pr., Vilniaus m., rekonstravimo darbai";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;49207;11128;A62-127/19;02-JUL-19;841645.44
 2019;SAV-2019;10200;15;Darbai;Darbai;45421100-5;"Durų bei susijusių elementų montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;49086;11130;A62-38/19;01-MAR-19;8099.99
 2019;EMD19;15000;51;Prekės;322;32250000-0;"Judriojo ryšio techninė įranga";15000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51607;11134;A68-40/19;27-MAY-19;5324
@@ -212,6 +221,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SIS-2019;1090100;8;Prekės;301;30192000-1;"Kanceliarinės prekės";188712831;"Socialinių išmokų skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;52866;11278;A68-75/19;30-JUL-19;165.53
 2019;SIS-2019;1090100;8;Prekės;301;30192000-1;"Kanceliarinės prekės";188712831;"Socialinių išmokų skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;52866;11279;A68-72/19;30-JUL-19;4489.13
 2019;SIS-2019;1090100;8;Prekės;301;30192000-1;"Kanceliarinės prekės";188712831;"Socialinių išmokų skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;52866;11280;A68-74/19;30-JUL-19;77.99
+2019;SIS-2019;1090100;9;Paslaugos;503;50300000-8;"Eilių valdymo sistemos priežiūra ir remontas";188712831;"Socialinių išmokų skyriaus pirkimų planas";3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53086;11341;A64-310/19;26-AUG-19;2933.04
+2019;221;10106000;23;Paslaugos;794;79416000-3;"Svetingumo konkurso viešinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52886;11358;A64-273/19;05-AUG-19;8349
 2019;BU_2019;1030600;2;Darbai;Darbai;45000000-7;-;1030000;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;221;10106000;32;Paslaugos;798;79810000-5;"Leidinio „Vilniaus renginių kalendorius 2020 m.“ parengimo ir spausdinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2019;SR2-2019;1090200;9;Paslaugos;713;71319000-7;"Labdaros ir paramos fondo „Vilties centras“ garažų paskirties pastato Gardino g. 2A, Vilniuje, griovimo ir kompensacinių priemonių aprašo ekspertizė";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;Y;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
@@ -234,7 +245,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;S3-2019;1011000;2;Paslaugos;503;50300000-8;"Vaizdo stebėjimo kameros remontas ir priežiūra";188710061;"2019 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;S3-2019;1011000;2;Paslaugos;503;50300000-8;"Vaizdo stebėjimo kameros remontas ir priežiūra";188710061;"2019 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;VTS-2019;16400;16;Prekės;315;31518600-6;-;16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2019;SR2-2019;1090200;17;Prekės;224;22459000-2;Bilietai;188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;EMD19;15000;12;Prekės;480;48000000-8;"Mobiliųjų įrenginių apsaugos programinė įranga";15000;;3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;MUTD_EOS;17100;11;Darbai;Darbai;45316212-4;"Šviesoforų posto Geležinio Vilko ties J. Kazlausko gatve, Vilniaus mieste, statyba";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;TD2019;1100000;1;Paslaugos;793;79341000-6;"Reklaminių plakatų pagaminimas parduodamo nekilnojamojo turto sąrašams paskelbti";188710061;;2;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
@@ -274,6 +284,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;75;Darbai;Darbai;45453100-8;"Naujininkų seniūnijos remonto darbai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2019;EMD19;15000;3;Prekės;302;30200000-1;"RAM kompiuteriams pirkimas";15000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;S5-2019;1011200;8;Darbai;Darbai;45236119-7;"Sporto aikštelių remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2019;MUTD-MTAAS;1017110;25;Prekės;031;03121100-6;"Rudeninių gėlių pirkimas ir sodinimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;MUTD_IS;17200;12;Paslaugos;713;71319000-7;"Misionierių sodų atkūrimo techninio projekto ekspertizė";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2019;221;10106000;33;Paslaugos;798;79810000-5;"Teminius maršrutus pristatančių leidinių spausdinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;SR2-2019;1090200;2;Paslaugos;713;71319000-7;"Gyvenamojo daugiabučio pastato Meškonių g. 10, Vilniuje techninio projekto ekspertizės paslaugos";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;Y;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
@@ -282,7 +293,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD_SKS;17120;15;Paslaugos;637;63712300-6;"Vilniaus miesto inžinerinių statinių keliuose priežiūros paslaugos";188751791;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2019;MUTD_IS;17200;18;Paslaugos;751;75100000-7;"2014-2020 m. Europos Sąjungos fondų investicijų Lietuvoje projektų administravimo";188751791;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2019;SR2-2019;1090200;10;Paslaugos;713;71319000-7;"Labdaros ir paramos fondo „Vilties centras“ maitinimo paskirties pastato Gardino g. 2A, Vilniuje";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2019;SR2-2019;1090200;18;Paslaugos;553;55320000-9;"Maisto tiekimo paslaugos";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;BU_2019;1030600;5;Darbai;Darbai;45000000-7;-;1030000;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;RKS2019;1400300;7;Paslaugos;793;79341000-6;"Reklamos ir rinkodaros paslaugos projektui „Geležinis Vilnius“";188710061;"2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2019;SR2-2019;1090200;3;Paslaugos;713;71319000-7;"Gyvenamojo daugiabučio pastato Meškonių g. 14, Vilniuje techninio projekto ekspertizės paslaugos";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;Y;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
@@ -303,6 +313,9 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;CMS2019;1070100;4;Paslaugos;712;71220000-6;"Keltuvo neįgaliesiems projektavimo paslaugos";70000;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2019;EMD19;15000;28;Prekės;323;32330000-5;"Vaizdo ir garso įranga";15000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;SAV-2019;10200;77;Paslaugos;501;50100000-6;"Dviračių priežiūra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2019;MUTD-MTAAS;1017110;17;Paslaugos;773;77310000-6;"Želdinių sodinimo, priežiūros ir sanitarinio valymo paslaugos";188751791;;5;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
+2019;MUTD_EOS;17100;17;Paslaugos;637;63712700-0;"Viešojo transporto infrastruktūros priežiūros, eismo valdymo organizavimo ir šviesoforų priežiūros, dviračių ir pėsčiųjų tinkle administravimo, rinkliavos už naudojimąsi mokamomis vietomis automobiliams statyti administravimo paslaugos";188751791;;7;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
+2019;MUTD_IS;17200;21;Paslaugos;715;71541000-2;"Statybos projektų valdymo paslaugos bei statinių statybos techninė priežiūra";188751791;;5;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
 2019;MUTD_EOS;17100;16;Darbai;Darbai;45311200-2;"Vilniaus miesto gatvių apšvietimo elektros tinklų priežiūra, remontas ir modernizavimas";188751791;;9;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
 2019;S5-2019;1011200;4;Paslaugos;507;50700000-2;"Karoliniškių seniūnijos administracinių patalpų adaministravimas ir peiežiūra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;MUTD_IS;17200;22;Darbai;Darbai;45233162-2;"T. Narbuto gatvės nuo Laisvės pr. iki Konstitucijos pr., Vilniaus m., rekonstravimas";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;;;;;
@@ -322,7 +335,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD-ŠVŪS;1017700;1;Darbai;Darbai;45231113-0;"Vandentiekio trasos rekonstrukcija Antakalnio g. 74";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;VTS-2019;16400;22;Prekės;189;18931100-5;Kuprinės;16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;SAV-2019;10200;29;Darbai;Darbai;45312100-8;"Gaisrinės signalizacijos sistemų montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2019;SAV-2019;10200;76;Prekės;301;30191400-8;"Dokumentų naikinimo įrenginiai";188710061;;1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2019;ŠKSD_2019;1030000;8;Darbai;Darbai;45000000-7;"Lopšelio-darželio Žemynos g. 2C rangos darbai";1030000;;1;N;N;Y;N;"Atviras konkursas";IV;Patvirtinta;;;;;
 2019;MUTD-ŠVŪS;1017700;18;Darbai;Darbai;45231113-0;-;188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2019;RKS2019;1400300;9;Paslaugos;793;79341000-6;"Informacijos apie Vilniaus miesto savivaldybės veiklą viešinimas socialiniuose tinkluose";188710061;"2019 metų pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
@@ -334,7 +346,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;125;Prekės;425;42512300-1;"Vėdinimo ir oro kondicionavimo įranga su montavimo darbais";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2019;221;10106000;4;Prekės;223;22312000-0;"Paveikslėliai su Vilniaus vaizdu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;SAV-2019;10200;73;Paslaugos;712;71220000-6;"Techninio projekto paruošimas Naujininkų seniūnijos remonto darbams";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
-2019;S9-2019;1011600;11;Darbai;Darbai;45331110-0;"Objekto Vandens g. 9 vidaus dujų tinklo įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2019;MUTD_EOS;17100;7;Darbai;Darbai;45316212-4;"Šviesoforų posto Kalvarijų ir P. Smuglevičiaus gatvių sankryžoje, Vilniaus mieste, statyba";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;221;10106000;19;Paslaugos;793;79342000-3;"Naujų vietinio turizmo produktų sukūrimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;MUTD_SKS;17120;11;Darbai;Darbai;45316212-4;"Šviesoforų postų T. Vaižganto ir Lukiškių gatvės sankryžos ir Vasario 16-osios gatvės ir Lukiškių g. statyba";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
@@ -354,7 +365,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;VTS-2019;16400;12;Prekės;301;30197630-1;"Specialus popierius automobiliuose esantiems spausdintuvams";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;CSS-2019;16100;1;Prekės;384;38431100-6;"Cheminių medžiagų detektorius";16000;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;1;1010203;4;Paslaugos;794;79421000-1;"Projekto „Daugiafunkcio sveikatinimo, ugdymo, švietimo, kultūros ir užimtumo skatinimo komplekso“ vykdymo konsultacinės paslaugos";188710061;"2019 m. Investicinių projektų valdymo skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2019;S9-2019;1011600;10;Darbai;Darbai;45331000-6;"Seniūnijos ir bendruomenės patalpų ir pastatų smulkus remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
+2019;S9-2019;1011600;10;Darbai;Darbai;45453000-7;"Seniūnijos ir bendruomenės patalpų ir pastatų smulkus remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
+2019;S9-2019;1011600;10;Darbai;Darbai;45453000-7;"Seniūnijos ir bendruomenės patalpų ir pastatų smulkus remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2019;S11-2019;1011800;2;Prekės;445;44510000-8;"Užimtumo programos priemonių įsigijimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;S11-2019;1011800;2;Prekės;445;44510000-8;"Užimtumo programos priemonių įsigijimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;MPD-2019;50000;1;Paslaugos;714;71410000-5;"Žemės paėmimo visuomenės poreikiams projektų parengimo paslauga";188710061;"2019 m. Miesto plėtros departamento pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
@@ -373,7 +385,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;40;Paslaugos;501;50100000-6;"Dviračių priežiūra ir remontas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;SAV-2019;10200;8;Paslaugos;507;50750000-7;"Pastato liftų remonto ir techninės priežiūros paslaugos paslaugos.";188710061;;3;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2019;STRATEG19;10110000;1;Paslaugos;794;79400000-8;"Vilniaus miesto 2021-2023 metų strateginio plėtros plano parengimas";188710061;"Vilniaus miesto 2021-2030 metų strateginio plėtros plano parengimas";1;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
-2019;MUTD-MTAAS;1017110;17;Paslaugos;773;77310000-6;"Želdinių sodinimo, priežiūros ir sanitarinio valymo paslaugos";188751791;;5;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
 2019;221;10106000;17;Paslaugos;793;79311000-7;"Vilniaus miesto vietinio turizmo tyrimo atlikimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;CMS2019;1070100;5;Paslaugos;516;51610000-1;"Klientų srautų valdymo sistemos įrengimo paslauga";70000;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;MUTD-ŠVŪS;1017700;3;Darbai;Darbai;45232453-2;"Daugiabučio namo J. Savickio g. 4 kiemo buitinių nuotekų tinklų statyba";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -381,9 +392,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;EMD19;15000;57;Paslaugos;724;72420000-0;"Bevielis internetas Vilniaus mieste";15000;;3;N;N;Y;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;EMD19;15000;22;Prekės;302;30200000-1;"Virtualios realybės akiniai ir kompiuteris";15000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;S3-2019;1011000;6;Darbai;Darbai;45233200-1;"Grigiškių seniūnijos žvyrkelių ir kitų kietų dangų remonto darbai";188710061;"2019 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2019;MUTD_EOS;17100;17;Paslaugos;637;63712700-0;"Viešojo transporto infrastruktūros priežiūros, eismo valdymo organizavimo ir šviesoforų priežiūros, dviračių ir pėsčiųjų tinkle administravimo, rinkliavos už naudojimąsi mokamomis vietomis automobiliams statyti administravimo paslaugos";188751791;;7;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
-2019;1;1012700;5;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
-2019;S5-2019;1011200;11;Darbai;Darbai;45212140-9;"Stacionarių sporto ir poilsio įrenginių pastatymo ir  montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;MUTD-MTAAS;1017110;3;Darbai;Darbai;45215500-2;"Viešojo automatinio tualeto Bazilijonų g. 5 įrengimas";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2019;S18-2019;1012400;5;Paslaugos;799;79952000-2;"Seniūnijos renginių organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;MUTD-MTAAS;1017110;8;Darbai;Darbai;45240000-1;"Fontano Erfurto g. 29 kapitalinis remontas";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -438,8 +446,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD_SKS;17120;8;Darbai;Darbai;45233252-0;"Žirmūnų gatvės sankryžos su jungiamuoju keliu, jungiamojo kelio nuo Žirmūnų gatvės iki Verkių gatvės ir Verkių gatvės nuo sankryžos su jungiamuoju keliu iki Žvalgų gatvės Vilniaus mieste rekonstravimas";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;SR2-2019;1090200;5;Darbai;Darbai;45000000-7;"Gyvenamojo daugiabučio pastato Meškonių g. 14, Vilniuje statybos darbai";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;;;;;
 2019;SAV-2019;10200;74;Darbai;Darbai;45432110-8;"PVC dangos klojimas pastate";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;S1-2019;1010800;2;Darbai;Darbai;45233200-1;"Šaligatvių ir kitų kietųjų dangų atnaujinimas ir remontas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;S1-2019;1010800;2;Darbai;Darbai;45233200-1;"Šaligatvių ir kitų kietųjų dangų atnaujinimas ir remontas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;MUTD_SKS;17120;36;Paslaugos;713;71320000-7;"Vilniaus miesto nesudėtingos kategorijos susisiekimo komunikacijų su inžineriniais tinklais projektavimo ir statinio projekto vykdymo priežiūros paslaugos";188751791;;4;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
@@ -462,12 +468,10 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;VTS-2019;16400;11;Prekės;349;34928430-1;"Švyturėlių juostos VTS automobiliams";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;S7;1011400;1;Paslaugos;923;92300000-4;"Bendruomenės šventė";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;S14-2019;1012100;2;Paslaugos;923;92300000-4;"Užupio Respublikos renginys";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
-2019;MUTD_IS;17200;21;Paslaugos;715;71541000-2;"Statybos projektų valdymo paslaugos bei statinių statybos techninė priežiūra";188751791;;5;N;N;N;N;"Vidaus sandoris";I;Patvirtinta;;;;;
 2019;S4-19;1011100;2;Darbai;Darbai;45236290-9;"Viešųjų sporto erdvių remonto ir įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2019;221;10106000;2;Prekės;395;39525000-8;"Šalikai su Vilniaus vaizdu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;BU_2019;1030600;6;Darbai;Darbai;45453100-8;"Vilniaus Žemynos progimnazijos (adresu Žemynos g. 14, Vilnius) efektyvumo didinimo, vidaus remonto darbai";1030000;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2019;SAV-2019;10200;49;Prekės;351;35111320-4;"Nešiojamieji gesintuvai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2019;MUTD-MTAAS;1017110;12;Darbai;Darbai;45215400-1;"Kolumbariumo Antakalnio kapinėse projektavimas ir įrengimas";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2019;SAV-2019;10200;45;Prekės;441;44100000-1;"Statybinės medžiagos ir panašūs gaminiai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2019;MUTD-ŠVŪS;1017700;4;Darbai;Darbai;45232453-2;"Privačių namų prijungimas prie centralizuotos nuotekų surinkimo infrastruktūros Vilniaus";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2019;SAV-2019;10200;46;Darbai;Darbai;45432130-4;"Savivaldybės pastato foje žmonių su regėjimo negalia dangos remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -491,6 +495,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;221;10106000;36;Paslaugos;923;92310000-7;"Kūrybinio turinio apie filmavimo vietas Vilniuje sukūrimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;221;10106000;21;Paslaugos;793;79341000-6;"Informacijos apie Vilniaus miesto turizmo galimybes viešinimas socialiniuose tinkluose";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2019;S16/2019/1;1012300;3;Darbai;Darbai;45236290-9;"Laiptų remonto darbai";188710061;"Šnipiškių seniūnijos 2019 metų pirkimų planas.";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51807;;;;
+2019;1;1012700;5;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53926;;;;
 2019;ŠKSD_2019;1030000;12;Darbai;Darbai;45000000-7;-;1030000;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;48989;;;;
 2019;S1-2019;1010800;4;Darbai;Darbai;45262640-9;"Laiptų, turėklų ir pėsčiųjų takų remontas ir atnaujinimas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;51586;;;;
 2019;S13-2019;1012000;4;Prekės;341;34150000-3;"Lauko treniruoklių įrengimas";188710061;"Rasų seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;51728;;;;
@@ -507,7 +512,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD-MTAAS;1017110;9;Paslaugos;773;77310000-6;"Gėlynų įrengimas ir priežiūra";188751791;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;48993;;;;
 2019;S17-2019;1012500;4;Darbai;Darbai;45236100-1;"Vaikų sporto aikštelių remonto darbai";188710061;"2019 m . Vilkpėdės seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;50547;;;;
 2019;PERS19;40000;11;Paslaugos;793;79341000-6;"Darbo skelbimų viešinimas";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52767;;;;
-2019;SIS-2019;1090100;13;Prekės;301;30197620-8;"Biuro popierius";188712831;"Socialinių išmokų skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;53286;;;;
 2019;MUTD-MTAAS;1017110;14;Paslaugos;505;50500000-0;"Lukiškių aikštės interaktyvaus dinaminio fontano ir geriamojo vandens fontanėlių priežiūros paslaugos";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;49726;;;;
 2019;MUTD-MTAAS;1017110;14;Paslaugos;505;50500000-0;"Lukiškių aikštės interaktyvaus dinaminio fontano ir geriamojo vandens fontanėlių priežiūros paslaugos";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;49726;;;;
 2019;S10-2019;1011700;2;Prekės;374;37410000-5;"Stacionarūs sporto įrenginiai ir jų montavimas";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52073;;;;
@@ -529,7 +533,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;110;Prekės;351;35113440-5;"Liemenės su atšvaitais";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52446;;;;
 2019;221;10106000;64;Prekės;182;18235400-9;"Suvenyrinės liemenės su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50226;;;;
 2019;"SRSD 2019";1090000;2;Paslaugos;851;85140000-2;"Serologinis ištyrimas atliekant IgG tyrimą";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;50588;;;;
-2019;EMD19;15000;32;Paslaugos;723;72300000-8;"Teisės aktų tvarkymo paslaugos pirkimas";15000;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;50806;;;;
 2019;S17-2019;1012500;1;Paslaugos;923;92300000-4;"""Baltosios lazdelės"" renginio organizavimas";188710061;"2019 m . Vilkpėdės seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52306;;;;
 2019;MUTD_SKS;17120;26;Paslaugos;637;63712310-9;"Vilniaus m. tiltų techninės apžiūros atlikimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52048;;;;
 2019;S9-2019;1011600;4;Darbai;Darbai;45331000-6;"Oro šildymo - kondicionavimo sistemos seniūnijos patalpose įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52826;;;;
@@ -556,6 +559,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;1;1011300;2;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52007;;;;
 2019;S3-2019;1011000;11;Prekės;374;37410000-5;"Lauko treniruoklių įsigijimas ir montavimas";188710061;"2019 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;50106;;;;
 2019;PERS19;40000;6;Paslaugos;803;80340000-9;"Informacinių technologijų srities mokymai";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49206;;;;
+2019;SAV-2019;10200;76;Prekės;301;30191400-8;"Dokumentų naikinimo įrenginiai";188710061;;1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;53786;;;;
 2019;1;1012700;3;Darbai;Darbai;45236290-9;"Suoliukų ir krepšinio lentų remontas.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51766;;;;
 2019;MUTD_IS;17200;36;Paslaugos;712;71250000-5;"Polocko g. Vilniuje, sutvarkymo projektų  parengimo, statybą leidžiančių dokumentų gavimo ir projektų vykdymo priežiūros paslaugos";188751791;;1;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;53107;;;;
 2019;221;10106000;54;Paslaugos;553;55320000-9;"Liublino delegacijos priėmimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48869;;;;
@@ -574,6 +578,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;221;10106000;75;Paslaugos;923;92310000-7;"Iliustracijų, skirtų Vilniaus suvenyrui vaikams, sukūrimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52706;;;;
 2019;SAV-2019;10200;89;Darbai;Darbai;45330000-9;"Sanitarinių įrenginių įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51646;;;;
 2019;SR2-2019;1090200;16;Paslaugos;794;79421000-1;"Konsultavimo paslaugų, susijusių su projektu „Bendruomeninių vaikų globos namų ir vaikų dienos centrų tinklo plėtra“";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53626;;;;
+2019;SAV-2019;10200;130;Paslaugos;792;79212000-3;"VšĮ Vilniaus rotušės patalpų naudojimo audito paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53886;;;;
 2019;Archyvas-19;40200;2;Paslaugos;925;92512100-4;"Dokumentų naikinimo paslauga";400000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49470;;;;
 2019;Archyvas-19;40200;5;Prekės;395;39515410-2;"Vidinės žaliuzės";400000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52229;;;;
 2019;ŠKSD_2019;1030000;26;Darbai;Darbai;45000000-7;"Skydinio - modulinio darželio priestato, prie lopšelio - darželio „Atžalėlės“, Antakalnio g. 74, Vilniuje, techninio darbo projekto koregavimo, SPVP paslaugos bei montavimo – statybos darbai";1030000;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;52286;;;;
@@ -597,6 +602,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;83;Prekės;341;34113300-5;"Elektrinis paspirtukas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51268;;;;
 2019;SAV-2019;10200;50;Paslaugos;504;50413200-5;"Gaisro gesinimo sistemos dujomis balionų ir gesinančios medžiagos pakeitimas ir sistemos patikra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51426;;;;
 2019;CSS-2019;16100;4;Prekės;480;48000000-8;"Ekstremaliųjų situacijų valdymo IT programos sukūrimas";16000;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;48867;;;;
+2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53906;;;;
+2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53906;;;;
 2019;MUTD_SKS;17120;25;Prekės;144;14400000-5;"Baltos natrio chlorido techninės druskos Vilniaus miesto gatvių barstymui žiemą pirkimas";188751791;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;50826;;;;
 2019;S10-2019;1011700;9;Paslaugos;923;92300000-4;"Kalėdinės šventės organizavimo paslaugos";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;51652;;;;
 2019;SIS-2019;1090100;11;Prekės;228;22852100-8;"Bylų viršeliai";188712831;"Socialinių išmokų skyriaus pirkimų planas";3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52106;;;;
@@ -605,6 +612,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD-BAS;1017900;1;Paslaugos;791;79100000-5;"Teisinės ir organizacinės pagalbos teikimas daugiabučių namų butų ir kitų patalpų savininkams, steigiant bendriją ir įsteigus bendriją";188751791;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;52052;;;;
 2019;CSS-2019;16100;13;Paslaugos;503;50324100-3;"Gyventojų perspėjimo ir informavimo sistemos eksploatavimas ir techninė priežiūra";16000;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;51926;;;;
 2019;SIS-2019;1090100;17;Prekės;302;30200000-1;"Tarnybinė stotis (serveris)";188712831;"Socialinių išmokų skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50186;;;;
+2019;S5-2019;1011200;11;Prekės;341;34150000-3;"Lauko treniruoklių ir kitos sporto įrangos įsigyjimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53826;;;;
+2019;S5-2019;1011200;11;Prekės;341;34150000-3;"Lauko treniruoklių ir kitos sporto įrangos įsigyjimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53826;;;;
 2019;S10-2019;1011700;3;Darbai;Darbai;45236290-9;"Poilsio ir rekreacinių zonų remonto darbai";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52068;;;;
 2019;221;10106000;10;Prekės;301;30197220-4;"Sąvaržėlės su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49488;;;;
 2019;S1-2019;1010800;3;Darbai;Darbai;45421000-4;"Rinkimų apylinkių paruošimas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48648;;;;
@@ -616,7 +625,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD_IS;17200;37;Darbai;Darbai;45212600-2;"Dviračių saugojimo paviljonų įrengimo darbai";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";IV;Patvirtinta;53586;;;;
 2019;MUTD_IS;17200;37;Darbai;Darbai;45212600-2;"Dviračių saugojimo paviljonų įrengimo darbai";188751791;;1;N;N;Y;N;"Mažos vertės pirkimai";IV;Patvirtinta;53586;;;;
 2019;PERS19;40000;10;Paslaugos;805;80580000-3;"Anglų kalbos mokymai";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;49306;;;;
-2019;KS3-2019;30100;4;Paslaugos;732;73210000-7;"ES projekto ,,Bendradarbiavimas su kūrybinėmis laboratorijomis ir centrais“ eksperto - tyrėjo paslaugos";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;53008;;;;
 2019;SAV-2019;10200;94;Darbai;Darbai;45421152-4;"Modulinių pertvarų montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51689;;;;
 2019;221;10106000;29;Paslaugos;799;79970000-4;"Vilniaus gastronominio leidinio parengimas ir  leidyba";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53010;;;;
 2019;ŠKSD_2019;1030000;13;Paslaugos;713;71319000-7;"Dailės mokyklos pastato, S. Konarskio g. 37, techninio darbo projekto A laidos ekspertizės paslaugų pirkimas";1030000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49547;;;;
@@ -636,14 +644,15 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;ŠKSD_2019;1030000;10;Prekės;185;18530000-3;"Dovanos ir apdovanojimai.";1030000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50946;;;;
 2019;S9-2019;1011600;9;Darbai;Darbai;45236110-4;"Lauko tinklinio, sporto aikštelių įrengimo ir kt. darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;50907;;;;
 2019;15;1010101;1;Paslaugos;732;73220000-0;"Neformaliojo vaikų švietimo programų ekspertinio vertinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51746;;;;
+2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53887;;;;
+2019;1;1011900;1;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53887;;;;
 2019;SAV-2019;10200;62;Darbai;Darbai;45316000-5;"Garažo apšvietimo atnaujinimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49110;;;;
-2019;221;10106000;28;Paslaugos;799;79970000-4;"Spalvinimo plakato su dėklu  gamyba";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52887;;;;
 2019;MUTD_IS;17200;26;Darbai;Darbai;45000000-7;"Kairės Neries krantinės pusės sutvarkymo, dviračių ir pėsčiųjų takų, Vilniuje, statybos darbai su darbo projekto parengimu";188751791;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;49429;;;;
+2019;S9-2019;1011600;11;Darbai;Darbai;45331110-0;"Objekto Vandens g. 9 vidaus dujų tinklo įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;53849;;;;
 2019;MUTD_SKS;17120;29;Paslaugos;637;63712320-2;"Vilniaus m. tunelių apžiūros atlikimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52051;;;;
 2019;221;10106000;12;Prekės;392;39221140-0;"Vandens gertuvės su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;49490;;;;
 2019;VTS-2019;16400;9;Prekės;341;34110000-1;Automobiliai;16000;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;53547;;;;
 2019;MUTD_IS;17200;19;Darbai;Darbai;45233252-0;"Fino gatvės nuo Giedraičių g. iki Kalvarijų g. rekonstravimo darbai";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;48567;;;;
-2019;KS3-2019;30100;2;Paslaugos;732;73210000-7;"ES projekto Kūrybiniai uostai eksperto paslaugos";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;53007;;;;
 2019;S15-2019;1012200;6;Prekės;341;34150000-3;"Lauko treniruoklių įrengimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;51866;;;;
 2019;S15-2019;1012200;6;Prekės;341;34150000-3;"Lauko treniruoklių įrengimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;51866;;;;
 2019;S10-2019;1011700;8;Darbai;Darbai;45420000-7;"Rinkiminių apylinkių įrengimas, inventoriaus remontas, surinkimas, išrinkimas";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48689;;;;
@@ -668,6 +677,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;PERS19;40000;13;Paslaugos;796;79621000-3;"Savivaldybei pavaldžių įstaigų vadovų atrankų ekspertų paslaugos";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52247;;;;
 2019;S3-2019;1011000;3;Darbai;Darbai;45453100-8;"Grigiškių seniūnijos patalpų remonto darbai";188710061;"2019 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52347;;;;
 2019;CSS-2019;16100;16;Prekės;351;35113400-3;"Apsauginiai drabužiai";16000;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;53627;;;;
+2019;SR2-2019;1090200;17;Paslaugos;925;92500000-6;"Socialinių darbuotojų dienos minėjimas";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53866;;;;
 2019;S5-2019;1011200;7;Darbai;Darbai;45236290-9;"Suoliukų ir kitos daugiabučių namų kiemų įrangos remonto, demontavimo ir atnaujinimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53014;;;;
 2019;MUTD_IS;17200;25;Prekės;031;03120000-8;"Gamtinės Neries Senvagės želdinių įsigijimas ir jų sodinimas";188751791;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;49469;;;;
 2019;MUTD_IS;17200;25;Prekės;031;03120000-8;"Gamtinės Neries Senvagės želdinių įsigijimas ir jų sodinimas";188751791;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;49469;;;;
@@ -678,6 +688,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;SAV-2019;10200;93;Darbai;Darbai;45421152-4;"Stiklinės sienelės montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51688;;;;
 2019;S1-2019;1010800;3;Darbai;Darbai;45421000-4;"Rinkimų apylinkių paruošimas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48546;;;;
 2019;VTS-2019;16400;25;Paslaugos;504;50411000-9;"Etaloninių rulečių metrologinis patikrinimas";16000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49388;;;;
+2019;PERS19;40000;15;Paslaugos;722;72224000-1;"Projektų vadybos konsultacinės paslaugos";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53847;;;;
 2019;TBKS19;1010910;1;Prekės;221;22110000-4;"Spausdintos knygos.";188710061;"Tarpinstitucinio bendradarbiavimo koordinavimo skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50866;;;;
 2019;1;1011500;6;Paslaugos;799;79952000-2;"Naujininkų bendruomenės renginiai";188710061;"Šaligatvių, laiptų remonto darbai";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51667;;;;
 2019;1;1011300;2;Prekės;341;34150000-3;"Stacionarių sporto įrenginių įsigijimas ir pastatymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52008;;;;
@@ -692,6 +703,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;S10-2019;1011700;4;Darbai;Darbai;45236290-9;"Medinių infrastruktūros remonto darbai";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52070;;;;
 2019;PERS19;40000;3;Paslaugos;805;80532000-2;"Vadovų mokymai";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;52746;;;;
 2019;S17-2019;1012500;3;Darbai;Darbai;45421000-4;"Rinkimų apylinkių paruošimas";188710061;"2019 m . Vilkpėdės seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48426;;;;
+2019;MUTD-MTAAS;1017110;12;Paslaugos;712;71220000-6;"Kolumbariumo Antakalnio kapinėse projektavimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53766;;;;
+2019;MUTD-MTAAS;1017110;12;Paslaugos;712;71220000-6;"Kolumbariumo Antakalnio kapinėse projektavimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53766;;;;
 2019;1;1011900;3;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remontas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52386;;;;
 2019;1;1011900;3;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remontas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52386;;;;
 2019;S11-2019;1011800;6;Paslaugos;923;92300000-4;"Pašilaičių bendruomenės renginys";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52389;;;;
@@ -711,6 +724,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;S19/2019/1;1012600;4;Darbai;Darbai;45236119-7;"Sporto aikštelių įrangos atnaujinimas, remontas, montavimas";188710061;"Viršuliškių seniūnijos 2019 metų pirkimų planas.";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52406;;;;
 2019;S5-2019;1011200;6;Darbai;Darbai;45233200-1;"Šaligatvių, pėsčiųjų takų ir kitų kietųjų dangų remonto ir atnaujinimo darabai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53015;;;;
 2019;VTS-2019;16400;3;Prekės;185;18530000-3;"Suvenyrai prevencinių priemonių dalyviams";16000;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52567;;;;
+2019;SR2-2019;1090200;18;Paslaugos;553;55320000-9;"Maisto tiekimo paslaugos";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53867;;;;
 2019;S11-2019;1011800;5;Darbai;Darbai;45453100-8;"Seniūnijos patalpų atnaujinimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52369;;;;
 2019;SAV-2019;10200;128;Prekės;331;33141620-2;"Įmonės pirmosios pagalbos rinkinys";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53326;;;;
 2019;SS-2019;1030300;1;Paslaugos;730;73000000-2;"Kūno kultūros ir sporto rėmimo programų konkurso paraiškų vertinimo konsultacinės ekspertų paslaugos";1030000;"Sporto skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48766;;;;
@@ -726,11 +740,11 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD_IS;17200;34;Darbai;Darbai;45233252-0;"Rinktinės gatvės atkarpos nuo Šeimyniškių gatvės iki Žalgirio gatvės Vilniuje rekonstravimo darbai";188751791;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;52491;;;;
 2019;S5-2019;1011200;10;Darbai;Darbai;45261910-6;"Karoliniškių seniūnijos pastato stogo remontas";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;52270;;;;
 2019;S13-2019;1012000;3;Darbai;Darbai;45420000-7;"Rinkimų apylinkių paruošimas";188710061;"Rasų seniūnijos pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;48646;;;;
+2019;SAV-2019;10200;129;Darbai;Darbai;45420000-7;"Rinkimų apylinkės įrengimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53846;;;;
 2019;SR2-2019;1090200;11;Paslaugos;853;85312100-0;"Integrali pagalba asmens namuose";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";3;N;Y;Y;N;"Atviras konkursas";I;Patvirtinta;53306;;;;
 2019;S2-2019;1010900;5;Darbai;Darbai;45236290-9;"Poilsio zonų remonto ir apželdinimo darbai";188710061;"2019 metų Fabijoniškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;51206;;;;
 2019;Archyvas-19;40200;4;Paslaugos;905;90512000-9;"Sulūžusių baldų išvežimas";400000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52054;;;;
 2019;S2-2019;1010900;3;Darbai;Darbai;45233200-1;"Smulkus šaligatvių, laiptų ir kitų kietų dangų remontas";188710061;"2019 metų Fabijoniškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;51127;;;;
-2019;SIS-2019;1090100;9;Paslaugos;503;50300000-8;"Eilių valdymo sistemos priežiūra ir remontas";188712831;"Socialinių išmokų skyriaus pirkimų planas";3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53086;;;;
 2019;SS-2019;1030300;2;Paslaugos;730;73000000-2;"Vilniaus miesto sporto klubų projektų įgyvendinimo 2019–2021 metais programos paraiškų vertinimo konsultacinės ekspertų paslaugos";1030000;"Sporto skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48768;;;;
 2019;S17-2019;1012500;1;Paslaugos;923;92300000-4;"""Baltosios lazdelės"" renginio organizavimas";188710061;"2019 m . Vilkpėdės seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;50451;;;;
 2019;EMD19;15000;48;Prekės;480;48000000-8;"AlienVault licencijos ir palaikymas";15000;;3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49506;;;;
@@ -762,7 +776,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;S17-2019;1012500;3;Darbai;Darbai;45421000-4;"Rinkimų apylinkių paruošimas";188710061;"2019 m . Vilkpėdės seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;48427;;;;
 2019;CSS-2019;16100;8;Prekės;188;18815000-5;"Batai prie asmeninės apsaugos drabužių";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;48992;;;;
 2019;AVS-2019;16200;2;Darbai;Darbai;45255400-3;"Bešeimininkių kačių būdos (slėptuvės)";16000;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52926;;;;
-2019;221;10106000;23;Paslaugos;794;79416000-3;"Svetingumo konkurso viešinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;52886;;;;
 2019;MUTD_SKS;17120;22;Paslaugos;713;71319000-7;"Susisiekimo komunikacijų (7.2), Vilniaus miesto Ragučio, Balsių ir Bubilo gatvių atkarpų, rekonstravimo techninio projekto bendrosios ekspertizės paslaugos";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49869;;;;
 2019;S1-2019;1010800;8;Darbai;Darbai;45453100-8;"Antakalnio seniūnijos pastato konstrukcijų remonto darbai";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51286;;;;
 2019;CSS-2019;16100;18;Prekės;323;32323300-6;"Vaizdo aparatūra su priedais";16000;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53686;;;;
@@ -820,6 +833,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;S4-19;1011100;4;Paslaugos;799;79952000-2;"Justiniškių bendruomenės šventė – kasmetinis krepšinio turnyras";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;52546;;;;
 2019;TD2019;1100000;7;Paslaugos;703;70330000-3;"Vilniaus miesto teritorijoje esančio bešeimininkio turto ir teisiškai neįregistruotų statinių identifikavimas ir valdymo sprendimų konsultacijos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51986;;;;
 2019;MUTD_SKS;17120;17;Paslaugos;713;71319000-7;"Vilniaus miesto susisiekimo infrastruktūros vystymas (priežiūra, remontas, rekonstrukcija) (Susisiekimo komunikacijų Vilniaus m. T. Kosciuškos ir Olandų g. statybos techninio projekto specialioji (paveldosaugos) ekspertizė";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;49266;;;;
+2019;SR2-2019;1090200;17;Paslaugos;925;92500000-6;"Socialinių darbuotojų dienos minėjimas";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53827;;;;
 2019;SAV-2019;10200;119;Paslaugos;909;90911200-8;"Patalpų ,J. Kubiliaus g. 2,  valymo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52728;;;;
 2019;MUTD_IS;17200;6;Darbai;Darbai;45221243-7;"Pėsčiųjų tunelio po geležinkeliu Vilniaus miesto Iešmininkų gatvėje įrengimo darbai";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;52466;;;;
 2019;MPD-2019;50000;7;Paslaugos;792;79212300-6;"ES projekto „ RURBAN“ audito paslaugos";188710061;"2019 m. Miesto plėtros departamento pirkimų planas";2;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;48966;;;;
@@ -880,6 +894,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;221;10106000;35;Paslaugos;923;92310000-7;"Kūrybinio  turinio, skirto lankstinukui „Vilnius vaikams. Įdomiausios vietos ir veiklos mieste visai šeimai“, sukūrimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52707;;;;
 2019;MUTD_ATS;17800;2;Prekės;446;44613800-8;"Tekstilės atliekų surinkimo priemonės (konteineriai)";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;49426;;;;
 2019;MUTD-MTAAS;1017110;24;Paslaugos;773;77310000-6;"Vasarinių gėlynų priežiūra Senamiesčio ir Naujamiesčio seniūnijose";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53467;;;;
+2019;PERS19;40000;16;Paslaugos;732;73220000-0;"Strategijos įgyvendinimo srities konsultacinės paslaugos";188710061;"Personalo departamento pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;53848;;;;
 2019;SAV-2019;10200;108;Darbai;Darbai;45421000-4;"Tribūnos renovacija";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;52269;;;;
 2019;SAV-2019;10200;99;Prekės;391;39171000-1;"Stiklinės vitrinos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51694;;;;
 2019;S10-2019;1011700;1;Paslaugos;923;92300000-4;"Panerių seniūnijos  bendruomenės kultūrinio  renginio organizavimas";188710061;"Panerių seniūnijos 2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51648;;;;
@@ -896,8 +911,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD_ATS;17800;8;Paslaugos;905;90512000-9;"Mišrių komunalinių atliekų surinkimo ir jų vežimo paslaugos Vilniaus miesto savivaldybės teritorijoje";188751791;;8;N;N;N;N;"Atviras konkursas";I;Patvirtinta;49106;;;;
 2019;EMD19;15000;45;Paslaugos;794;79400000-8;"Vilniaus miesto savivaldybės administracijos teikiamų paslaugų procesų ir procedūrų analizės ir tobulinimo paslaugos";15000;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;49449;;;;
 2019;MUTD_ATS;17800;9;Paslaugos;905;90512000-9;"Mišrių komunalinių atliekų surinkimo ir jų vežimo paslaugos Vilniaus miesto savivaldybės teritorijoje penktoje zonoje „Centras“";188751791;;1;N;N;Y;N;"Neskelbiamos derybos";II;Patvirtinta;52408;;;;
+2019;S9-2019;1011600;11;Darbai;Darbai;45331110-0;"Objekto Vandens g. 9 vidaus dujų tinklo įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;53806;;;;
 2019;ŠKSD_2019;1030000;15;Prekės;032;03221000-6;"Vietinės daržovės Vilniaus miesto ikimokyklinio ugdymo įstaigoms";1030000;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;50266;;;;
-2019;RKS2019;1400300;5;Paslaugos;798;79822500-7;"Grafinio dizaino paslaugos";188710061;"2019 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;53506;;;;
 2019;S1-2019;1010800;7;Prekės;374;37410000-5;"Lauko treniruoklių įsigijimas ir montavimas";188710061;"2019 m. Antakalnio seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;51166;;;;
 2019;1;1011500;9;Paslaugos;799;79952000-2;"Burbiškių bendruomenės renginys";188710061;"Šaligatvių, laiptų remonto darbai";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52026;;;;
 2019;SAV-2019;10200;117;Prekės;395;39515420-5;"Medžiaginės žaliuzės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;52730;;;;
@@ -949,6 +964,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2019;MUTD-MTAAS;1017110;18;Prekės;031;03121100-6;"Pavasarinių gėlių pirkimas ir sodinimas";188751791;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50326;;;;
 2019;KS3-2019;30100;14;Paslaugos;635;63500000-4;"Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos.";1030000;"Kultūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;50367;;;;
 2019;SR2-2019;1090200;12;Darbai;Darbai;45000000-7;"Svajonių g. 56 pastato lauko tinklų ir apdailos atstatymo darbai bei ventiliacijos įrengimo darbai";188712831;"2019 m. Socialinės paramos skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;49387;;;;
+2019;EMD19;15000;60;Paslaugos;725;72512000-7;"Kibernetinio saugumo spragų atskleidimo programos sukūrimas";15000;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;53927;;;;
 2019;MPD-2019;50000;11;Paslaugos;712;71220000-6;"Architektūrinis projekto konkursas Mokslo paskirties pastatas (gimnazija), Tolminkiemio g., Vilniuje";188710061;"2019 m. Miesto plėtros departamento pirkimų planas";2;N;N;Y;N;"Projekto konkursas";I;Patvirtinta;50452;;;;
 2019;MUTD_IS;17200;38;Darbai;Darbai;45454100-5;"Lukiškių a. šviestuvų restauravimo darbai";188751791;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;53126;;;;
 2019;MUTD_IS;17200;20;Darbai;Darbai;45233252-0;"Giedraičių g. rekonstravimas, įrengiant modernias eismo saugos priemones, darbai";188751791;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;48609;;;;
