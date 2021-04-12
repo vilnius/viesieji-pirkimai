@@ -56,12 +56,17 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"SIS 2021";1090100;15;Paslaugos;508;50800000-3;"Pastato priežiūros ir administravimo paslaugos";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62310;14364;A64-74/21;09-MAR-21;12000.01
 2021;AP-21;10200;111;Prekės;311;31127000-2;"COVID-19 mėginių paėmimo vietų elektros generatorių nuoma ir priežiūros paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62211;14405;A68-19/21;10-MAR-21;4091.01
 2021;"SIS 2021";1090100;12;Paslaugos;642;64200000-8;"Fiksuoto telefonijos ryšio paslaugos.";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62519;14418;A64-93/21;29-MAR-21;4100
+2021;ITG21;1021130;47;Prekės;480;48000000-8;"Žmogaus emocinės būklės iš veido mimikos (biometrinių duomenų) nustatymo sprendimo sukūrimas";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62792;14440;A68-29/21;06-APR-21;
+2021;ITG21;1021130;49;Paslaugos;722;72200000-7;"Vakcinavimo darbo proceso integracijos  palaikymo ir konsultacijos paslaugos";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63033;14441;A64-95/21;01-APR-21;
+2021;ITG21;1021130;48;Prekės;485;48517000-5;"Vakcinavimo darbo proceso integracijos valdymo sistema";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63032;14442;A68-26/21;01-APR-21;
 2021;11;10106000;72;Prekės;223;22315000-1;Nuotraukos.;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62214;14367;A252-91/21(3.10.15E-AD8)/3;11-FEB-21;50
 2021;11;10106000;49;Paslaugos;798;79810000-5;"Spausdinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62229;14368;A252-104/21(3.10.15E-AD8)/1;12-FEB-21;1275.3
 2021;1;1021040;8;Paslaugos;791;79111000-5;"Konsultavimo paslaugos rengiant Vilniaus miesto socialinę  politiką";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62511;14383;A64-86/21;17-MAR-21;11979
 2021;"SIS 2021";1090100;3;Prekės;302;30213000-5;Kompiuteriai.;188710061;"2021 pirkimų planas";1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62390;14366;A68-20/21;16-MAR-21;12098.79
 2021;AP-21;10200;116;Paslaugos;797;79710000-4;"Pastato, Konstitucijos pr. 3, apsaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62510;14409;A64-76/21;09-MAR-21;11797.5
+2021;CSS-2021;16100;10;Prekės;331;33141420-0;"Chirurginės pirštinės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62893;14450;A252-190/21(3.10.15E-CIV);29-MAR-21;12099.99
 2021;CSS-2021;16100;9;Paslaugos;555;55520000-1;"Senjorų maitinimas Vilniaus miesto savivaldybėje";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62440;14370;A64-82/21;10-MAR-21;9999.99
+2021;ITG21;1021130;3;Prekės;488;48800000-6;"Oracle duomenų bazių tarnybinių stočių palaikymas";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62753;14444;A68-30/21;08-APR-21;
 2021;INF-2021;1020960;57;Darbai;Darbai;45453000-7;"Estrados pastato, M. K. Čiurlionio g. 100, Vilniuje, atliktų kapitalinio remonto darbų defektų šalinimo, nebaigtų statybos darbų bei statybos užbaigimo procedūrų";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;SEN3-2021;1011000;6;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remonto darbai";188710061;"2021 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;021;1070100;16;Darbai;Darbai;45453000-7;"Terasos ant pastato stogo santuokų apeigoms atlikti įrengimas";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
@@ -71,12 +76,15 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;105;Darbai;Darbai;45453000-7;"Rūkymo zonos įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;104;Darbai;Darbai;45331000-6;"Vėdinimo sistemos įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;107;Darbai;Darbai;45343100-4;"Gaisrinių čiaupų spintelės ir jų montavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;AP-21;10200;123;Prekės;310;31000000-6;"Elektros prekės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;MTA-2021;1021020;20;Paslaugos;512;51210000-7;"Kelių orų sąlygų (KOS) automatinių/meteorologinių stočių įrengimas ir kitos susijusios paslaugos";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;INF-2021;1020960;56;Darbai;Darbai;45453000-7;"Estrados pastato priestato M. K. Čiurlionio g. 100, Vilniuje, paprastojo remonto darbų įsigijimas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
+2021;1;1011800;2;Darbai;Darbai;45454000-4;"Seniūnijos patalpų remontas";188710061;"VMSA Pašilaičių seniūnijos 2021 m. viešųjų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;MTA-2021;1021020;10;Darbai;Darbai;45215500-2;"Viešojo tualeto Vokiečių g. 13 remontas";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;MTA-2021;1021020;8;Darbai;Darbai;45215500-2;"Viešojo tualeto V. Kudirkos a. 11A remontas";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;JS21;1011100;2;Darbai;Darbai;45236290-9;"Kietųjų ir kitų dangų remonto, įrengimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;JS21;1011100;1;Darbai;Darbai;45236290-9;"Viešųjų erdvių remonto ir įrengimo darbai (suoliukai, šiukšliadėžės, turėklai)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
+2021;"SPORT 21";1021050;21;Darbai;Darbai;45212221-1;"Pagalbinių patalpų įrengimo PP1 po tribūnomis TR1 Baltojo tilto";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;2021/SEN/1;1012600;4;Darbai;Darbai;45236119-7;"Stacionarių sporto įrenginių atnaujinimas, remontas, montavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;1;1021040;15;Paslaugos;792;79212100-4;"VšĮ “Senevita“ finansinio audito paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;ENE-2021;1020930;4;Prekės;486;48614000-5;"Pastatų šildymo sistemų nuotolinės kontrolės programinės įrangos nuomos paslaugos";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
@@ -164,13 +172,10 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;INF-2021;1020960;19;Darbai;Darbai;45233252-0;"Tarandės gatvės nuo Ukmergės g. iki Putiniškių g. rekonstravimo darbai";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2021;INF-2021;1020960;16;Darbai;Darbai;45000000-7;"0,84 ha viešosios erdvės tarp Giedraičių ir Kintų g., Šnipiškių sen., sutvarkymo darbai";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2021;INF-2021;1020960;13;Darbai;Darbai;45231400-9;"110 kV įtampos oro linijos Šiaurinė-Šeškinė I, II ir Šeškinė-Žvėrynas I, II Vilniaus mieste rekonstravimas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
-2021;INF-2021;1020960;8;Darbai;Darbai;45233252-0;"Vilniaus miesto susisiekimo komunikacijų rekonstrukcija ir kapitalinis remontas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;1;1012700;2;Darbai;Darbai;45236290-9;"Kiemų ir poilsio zonų mažosios architektūros elementų atnaujinimas.";188710061;"2021 m.Žirmūnų seniūnijos pirkimų planas.";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;11;10106000;23;Paslaugos;635;63500000-4;"Komandiruočių organizavimo, turizmo ir delegacijų priėmimo paslaugos";188710061;;3;N;N;N;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;1;1021070;5;Paslaugos;798;79822500-7;"Vilniaus pedagoginės psichologinės tarnybos įvaizdžio keitimo (dizaino) paslaugos";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
-2021;RKS2020;1400300;5;Paslaugos;798;79824000-6;"Veiklos ataskaitos už 2019 m. bukletų platinimo paslaugos";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;11;10106000;54;Paslaugos;798;79822500-7;"Dizaino ir maketavimo paslaugos";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
-2021;RKS2020;1400300;2;Paslaugos;798;79810000-5;"Veiklos ataskaitos už 2020 m. bukletų spausdinimo paslaugos";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;RKS2020;1400300;9;Paslaugos;798;79822500-7;"Grafinio dizaino paslaugos";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;11;10106000;51;Paslaugos;798;79822500-7;"Leidinių ir kito reklaminio turinio maketavimo ir dizaino paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;VMAS21;1021090;6;Paslaugos;712;71220000-6;"Parko Varnės g., Pilaitėje techninio projekto parengimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
@@ -265,7 +270,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;MTA-2021;1021020;16;Prekės;392;39298300-0;"Gėlinių pirkimas";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;001;1020850;3;Prekės;441;44112100-9;"Rakinamos stoginės šiukšlių konteineriaims";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;17;Prekės;441;44100000-1;"Statybinės medžiagos  ir reikalingi įrankiai";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2021;1;1021040;10;Paslaugos;851;85142300-9;"Higienos paslaugos socialiai remtiniems asmenims Vilniaus m.";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;AP-21;10200;36;Prekės;358;35821100-6;"Vėliavų stiebai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;KUL-2021;30100;9;Paslaugos;730;73000000-2;"ES projekto „Bendradarbiavimas su kūrybinėmis laboratorijomis ir centrais“ moderatoriaus paslaugos";188710061;"2021 M. KULTŪROS PIRKIMŲ PLANAS";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;KUL-2021;30100;8;Paslaugos;730;73000000-2;"EUROCITIES projektų moderavimas";188710061;"2021 M. KULTŪROS PIRKIMŲ PLANAS";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -276,6 +280,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;35;Prekės;301;30193500-3;"Spaudinių stovai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;51;Prekės;301;30197000-6;"Smulki biuro įranga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;48;Prekės;301;30190000-7;"Įvairi biuro įranga ir reikmenys";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
+2021;AP-21;10200;120;Prekės;301;30192800-9;"Lipnios etiketės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;49;Prekės;301;30192000-1;"Kanceliarinės prekės";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;7;Prekės;301;30197620-8;"Biuro popierius";188710061;"2021 pirkimų planas";1;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;6;Prekės;301;30192000-1;"Kanceliarinės prekės";188710061;"2021 pirkimų planas";1;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
@@ -294,7 +299,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;SEN3-2021;1011000;3;Darbai;Darbai;45233200-1;"Pėsčiųjų takų, šaligatvių, laiptų ir kitų kietų dangų remonto darbai";188710061;"2021 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;1;1021080;3;Paslaugos;661;66170000-2;"Pavilnio bibliotekos projekto įgyvendinimo konsultacinės paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;021;1070100;10;Darbai;Darbai;45453000-7;"Fasadinių lauko laiptų remontas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2021;PAN21;1011700;6;Darbai;Darbai;45236119-7;"Sporto aikštelių ir kitos lauko įrangos remontas";188710061;"Panerių seniūnija 2021";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;PAN21;1011700;6;Darbai;Darbai;45236119-7;"Sporto aikštelių remontas";188710061;"Panerių seniūnija 2021";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;ENE-2021;1020930;1;Darbai;Darbai;45332000-3;"Nuotekų sistemos įrengimas Klaipėdos g. 4";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;MTA-2021;1021020;1;Paslaugos;773;77310000-6;"Želdiniai ir jų sodinimas";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;INF-2021;1020960;38;Darbai;Darbai;45233224-5;"Amatų gatvės nuo Naugarduko g. iki Švitrigailos g. statyba";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
@@ -304,7 +309,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;A121-27653/20;1012200;5;Darbai;Darbai;45236119-7;"Sporto aikštelių remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;1;1021040;3;Darbai;Darbai;45453000-7;"Mokslo (7.11) ir gydymo (7.12) paskirties pastato Lakštingalų g. 9, Vilniuje rekonstravimo darbai su darbo projekto parengimu";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2021;2021-1;1011300;4;Darbai;Darbai;45453100-8;"Seniūnijos patalpų remontas ir atnaujinimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2021;RKS2020;1400300;11;Prekės;347;34711200-6;"Foto prekės";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;2021/SEN/1;1012300;2;Darbai;Darbai;45236290-9;"Infrastruktūros objektų remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;86;Darbai;Darbai;45317000-2;"Pastato elektros instaliacijos tinklų sutvarkymo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;79;Darbai;Darbai;45442100-8;"Pastato koridorių dažymo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -340,7 +344,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;1;1021030;1;Paslaugos;642;64216200-5;"Informaciniai skelbimai internetiniame portale";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;9;Paslaugos;642;64212100-6;"SMS žinutės";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;11;10106000;36;Paslaugos;642;64216200-5;"Konkurso „Vilniaus svetingumas“ viešinimas socialiniuose tinkluose";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2021;PAN21;1011700;5;Darbai;Darbai;45236290-9;"Kiemų ir poilsio zonų mažosios architektūros elementų remontas";188710061;"Panerių seniūnija 2021";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;PAN21;1011700;5;Darbai;Darbai;45236290-9;"Mažosios architektūros elementų remontas";188710061;"Panerių seniūnija 2021";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;INF-2021;1020960;33;Darbai;Darbai;45221119-9;"Valakampių tilto kapitalinis remontas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2021;INF-2021;1020960;10;Darbai;Darbai;45233252-0;"T. Narbuto gatvės nuo Laisvės per. iki Konstitucijos pr., Vilniaus m., rekonstravimas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
 2021;INF-2021;1020960;9;Darbai;Darbai;45233252-0;"Vilniaus miesto gatvių ir kiemų dangos remontas bei priežiūra";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
@@ -362,7 +366,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;70;Paslaugos;501;50112000-3;"Transporto priemonių remonto paslaugos ir atsarginės detalės";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;AP-21;10200;15;Paslaugos;501;50116100-2;"VMSA pastato kabelių ir elektros laidų izoliacijos varžų matavimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;AP-21;10200;53;Paslaugos;501;50112300-6;"Automobilių plovimo paslauga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2021;EIS-2021;1017100;2;Paslaugos;601;60112000-6;"Keleivių vežimo paslaugos vietinio reguliaraus susisiekimo autobusų maršrutais Vilniaus mieste";188710061;"2021 m. Eismo organizavimo skyriaus pirkimų planas";7;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;AP-21;10200;52;Paslaugos;601;60100000-9;"Automobilių dalijimosi paslauga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;47;Paslaugos;601;60120000-5;"Taksi pavėžėjimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;11;10106000;78;Prekės;185;18530000-3;"Vilniaus suvenyras vaikams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -384,13 +387,12 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"SIS 2021";1090100;21;Prekės;323;32333200-8;"Vaizdo kameros";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;27;Prekės;323;32351200-0;"Komerciniai FullHD ekranai";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;ITG21;1021130;27;Prekės;323;32330000-5;"Vaizdo ir garso įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
-2021;ITG21;1021130;26;Prekės;323;32323000-3;Monitoriai;188710061;"Inovacijų ir technologijų grupės planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2021;EIS-2021;1017100;20;Prekės;323;32321200-1;"360 view kamerų tvirtinamų ant transporto priemonių pirkimas";188710061;"2021 m. Eismo organizavimo skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;20;Prekės;425;42512000-8;"Kondicionierių priežiūra ir remontas";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;ITG21;1021130;30;Prekės;322;32232000-8;"Posėdžių salių įrangos atnaujinimas";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2021;ITG21;1021130;23;Prekės;322;32250000-0;"Testavimo punktų ryšio įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;50;Prekės;322;32232000-8;"Vaizdo ir garso aparatūra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2021;PAN21;1011700;4;Darbai;Darbai;45233200-1;"Takų, šaligatvių, laiptų ir kitų kietų dangų remontas";188710061;"Panerių seniūnija 2021";1;N;N;Y;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
+2021;PAN21;1011700;4;Darbai;Darbai;45233200-1;"Pėsčiųjų takų, šaligatvių dangų remontas";188710061;"Panerių seniūnija 2021";1;N;N;Y;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2021;INF-2021;1020960;53;Darbai;Darbai;45112711-2;"Vingio estrados neatliktų darbų užbaigimas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;INF-2021;1020960;51;Darbai;Darbai;45112711-2;"Tauro kalno parko tvarkymo Pietinėje tikslinėje teritorijoje rangos darbai su darbo projekto parengimu";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;INF-2021;1020960;49;Darbai;Darbai;45233252-0;"Susisiekimo komunikacijų (7.2), Vilniaus miesto Ragučio, Balsių ir Bubilo gatvių atkarpų, rekonstravimo darbai su darbo projekto parengimu";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
@@ -420,6 +422,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"ŽIVS 21";1021120;12;Paslaugos;665;66512210-7;"Darbuotojų sveikatos draudimo paslaugos";188710061;;1;N;N;N;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;1;1021070;2;Paslaugos;665;66516000-0;"Civilinės atsakomybės draudimo paslaugos Vilniaus miesto savivaldybės formalaus ir formalųjį ugdymą papildančioms bei ikimokyklinio ugdymo įstaigoms";188710061;;1;N;N;N;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;AP-21;10200;16;Paslaugos;797;79710000-4;"VMSA seniūnijų ir nutolusių padalinių patalpų apsaugos paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
+2021;AP-21;10200;119;Paslaugos;797;79710000-4;"COVID-19 karantinuojamų asmenų  ir  COVID-19 mėginių paėmimo vietų apsaugos paslaugos";188710061;;1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;VŠT2021;1016400;12;Paslaugos;797;79710000-4;"Apsaugos paslaugos.";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;10;Darbai;Darbai;45233270-2;"VMSA požeminės stovėjimo aikštelės ženklinimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;JS;1020970;4;Paslaugos;805;80530000-8;"Kvalifikacijos kėlimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -462,7 +465,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;INF-2021;1020960;20;Darbai;Darbai;45233252-0;"Istorinės Žydų gatvės trasos atkūrimo darbai";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2021;INF-2021;1020960;17;Darbai;Darbai;45233252-0;"Viešojo transporto A juostos įrengimo Kalvarijų gatvėje tarp Šeimyniškių g. ir Treinio g. darbai";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2021;INF-2021;1020960;1;Darbai;Darbai;45233252-0;"Asfaltbetonio dangoje esančių plyšių užtaisymas mastika";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
-2021;A121-27653/20;1012200;6;Darbai;Darbai;45236119-7;"Seno tipo vaikų žaidimo aikštelių remonto ir demontavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
+2021;A121-27653/20;1012200;6;Darbai;Darbai;45236119-7;"Seno tipo vaikų žaidimo aikštelių remonto ir demontavimo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;A121-27653/20;1012200;4;Darbai;Darbai;45233200-1;"Šaligatvio remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;2021-1;1011300;1;Darbai;Darbai;45236290-9;"Suoliukų, informacinių stendų, sporto aikštelių ir kitos lauko įrangos atnaujinimas, remontas, montavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;2021;1010800;4;Darbai;Darbai;45233200-1;"Šaligatvių, pėsčiūjų takų, laiptų ir kitų kietų dangų remonto ir atnaujinimo  darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -482,6 +485,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;92;Prekės;442;44221300-8;"Praėjimo varteliai ir jų įrengimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2021;AP-21;10200;66;Prekės;341;34110000-1;"Keleivinių automobilių veiklos nuoma";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;AP-21;10200;57;Prekės;341;34110000-1;"Keleiviniai automobiliai";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
+2021;AP-21;10200;122;Prekės;337;33760000-5;Servetėlės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;54;Prekės;337;33760000-5;"Higieninis popierius seniūnijoms";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2021;AP-21;10200;43;Darbai;Darbai;45453100-8;"VMSA seniūnijų ir nutolusių padalinių patalpų remontas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
 2021;AP-21;10200;25;Prekės;159;15981000-8;"Mineralinis vanduo";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
@@ -492,7 +496,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;S18-2021;1012400;6;Prekės;158;15842000-2;"Kalėdinės dovanėlės ir saldumynai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2021;AP-21;10200;26;Prekės;158;15860000-4;"Kava, arbata ir kiti susiję produktai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2021;AP-21;10200;30;Prekės;158;15842300-5;"Konditerijos gaminiai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
-2021;AP-21;10200;90;Paslaugos;909;90911200-8;"COVID-19 mėginių paėmimo vietų valymo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;AP-21;10200;124;Paslaugos;909;90910000-9;"Valymo paslaugos vakcinavimo punktui esančiame VMSA pastate";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;1;1021070;6;Paslaugos;909;90921000-9;"Baigiamosios dezinfekcijos paslaugos Vilniaus miesto savivaldybės formalaus ir formalųjį ugdymą papildančioms bei neformalaus ugdymo įstaigoms";188710061;;1;N;N;N;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;021;1070100;3;Paslaugos;909;90910000-9;"Sintetinio pluošto kilimėlių valymas ir keitimas";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AP-21;10200;19;Paslaugos;909;90911200-8;"VMSA seniūnijų ir nutolusių padalinių patalpų valymo paslaugos";188710061;;2;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
@@ -526,7 +530,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;ITG21;1021130;29;Prekės;302;30200000-1;"Kompiuterinė įranga ir reikmenys";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;ENE-2021;1020930;20;Prekės;302;30237475-9;"Konteinerių daviklių pirkimas";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;ITG21;1021130;25;Prekės;302;30213200-7;"Planšetiniai kompiuteriai";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Atviras konkursas";II;Patvirtinta;;;;;
-2021;"SIS 2021";1090100;17;Prekės;302;30213100-6;"Nešiojamieji kompiuteriai";188710061;"2021 pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;ITG21;1021130;52;Prekės;302;30213100-6;"Nešiojamieji kompiuteriai";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;ITG21;1021130;33;Prekės;302;30200000-1;"Kompiuterių reikmenys";188710061;"Inovacijų ir technologijų grupės planas";1;N;Y;N;N;"Atviras konkursas";IV;Patvirtinta;;;;;
 2021;"SIS 2021";1090100;4;Prekės;302;30232110-8;"Daugiafunkciniai spausdinimo aparatai";188710061;"2021 pirkimų planas";1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2021;ITG21;1021130;24;Prekės;302;30232110-8;"Testavimo punktų spausdinimo įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
@@ -557,6 +561,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"SPORT 21";1021050;8;Darbai;Darbai;45212221-1;"Sporto paskirties inžinerinių statinių statybos, kitos paskirties statinių rekonstravimo ir statybos, Kalvarijų g. 87, Vilniuje,  I-o etapo statybos rangos darbai su darbo projekto parengimu";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;;;;;
 2021;2021;1011500;6;Paslaugos;799;79952000-2;"Naujininkų bendruomenės šventė";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;2021;1011500;4;Prekės;374;37416000-7;"Laisvalaikio įrenginiai (mažoji architertūra)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
+2021;AP-21;10200;121;Prekės;374;37414200-5;"Kelioniniai šaldytuvai terpėm pervežti";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;2021;1011500;3;Darbai;Darbai;45236119-7;"Sporto aikštelių remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;2021/SEN/1;1012300;3;Darbai;Darbai;45233200-1;"Šaligatvių, laiptų ir kitų dangų remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;ITG21;1021130;37;Paslaugos;796;79620000-6;"IT žmogiškųjų išteklių nuomos paslaugos (Laravel specialistas)";188710061;"Inovacijų ir technologijų grupės planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
@@ -569,8 +574,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;2021;1010800;3;Paslaugos;507;50700000-2;"Antakalnio seniūnijos administracinių patalpų administravimo paslaugos.  .";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;KS21;1011200;3;Paslaugos;507;50700000-2;"Karoliniškių seniūnijos administracinių patalpų administravimo paslaugos";188710061;"Karoliniškių seniūnija 2021";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;MTA-2021;1021020;9;Paslaugos;507;50760000-0;"Vilniaus miesto viešųjų kanalizuotų tualetų priežiūros paslaugos";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
-2021;PAN21;1011700;3;Paslaugos;507;50700000-2;"Panerių seniūnijos  patalpų administravimas";188710061;"Panerių seniūnija 2021";3;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
-2021;ENE-2021;1020930;6;Paslaugos;507;50700000-2;"Inžinerinių sistemų ir statinių techninės priežiūros ir remonto paslaugos Vilniaus miesto ikimokyklinio ugdymo įstaigose (darželiuose) bei švietimo įstaigose (mokyklose) C zona";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
+2021;PAN21;1011700;3;Paslaugos;507;50700000-2;-;188710061;"Panerių seniūnija 2021";3;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2021;S18-2021;1012400;7;Paslaugos;507;50700000-2;"Verkių seniūnijos patalpų eksploatavimas ir priežiūra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2021;AP-21;10200;83;Paslaugos;507;50750000-7;"Pastato liftų remonto ir techninės priežiūros paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;KAS2021;1020980;3;Prekės;444;44423400-5;"Valstybiniai žemės ūkio technikos ženklai (numeriai)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
@@ -579,6 +583,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"SIS 2021";1090100;11;Prekės;444;44423200-3;"Stumdomos pakylos";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2021;SEN3-2021;1011000;1;Darbai;Darbai;45236290-9;"Vaikų žaidimo, sporto aikštelių ir kitos mažosios architektūros remonto darbai";188710061;"2021 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2021;AVS2021;16200;6;Paslaugos;503;50300000-8;"Vaizdo transliavimo, įrangos įrengimo, priežiūros ir remonto paslaugos";188710061;"Administracinės veiklos skyrius";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;61736;;;;
+2021;AP-21;10200;90;Paslaugos;909;90911200-8;"COVID-19 mėginių paėmimo vietų valymo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63352;;;;
 2021;CSS-2021;16100;2;Prekės;320;32000000-3;"Gyventojų perspėjimo sirenos";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;63036;;;;
 2021;MTA-2021;1021020;15;Paslaugos;772;77200000-2;"Vilniaus miesto savivaldybės valdomų valstybinės reikšmės miško parkų priežiūros ir tvarkymo paslaugos";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;63034;;;;
 2021;VMAS21;1021090;9;Paslaugos;712;71222000-0;"Vilniaus miesto gatvių želdinimo principų ir  jų detalizacijų aprašo parengimo paslauga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62050;;;;
@@ -587,6 +592,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;ITG21;1021130;31;Paslaugos;791;79132100-9;"Laiko žymos";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62520;;;;
 2021;"ŽIVS 21";1021120;7;Paslaugos;803;80340000-9;"Projektų valdymo mokymai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61712;;;;
 2021;INF-2021;1020960;54;Paslaugos;730;73000000-2;"Vilniaus miesto gatvių dizaino ir geometrijos detalizacijų parengimo paslaugos.";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61734;;;;
+2021;ITG21;1021130;26;Prekės;323;32323000-3;Monitoriai;188710061;"Inovacijų ir technologijų grupės planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;63373;;;;
 2021;CSS-2021;16100;9;Paslaugos;555;55520000-1;"Senjorų maitinimas Vilniaus miesto savivaldybėje";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62436;;;;
 2021;1;1021030;2;Paslaugos;703;70330000-3;"Nepriklausomų konsultantų (ekspertų) atrankos paslaugos";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61546;;;;
 2021;EIS-2021;1017100;10;Paslaugos;712;71247000-1;"Eismo organizavimo priemonių įrengimo darbų ir priežiūros paslaugų kontrolė";188710061;"2021 m. Eismo organizavimo skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;61728;;;;
@@ -620,6 +626,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;VMAS21;1021090;10;Paslaugos;712;71220000-6;"Vilniaus geležinkelio stoties komplekso, stoties aikštės ir viešojo transporto terminalo architektūrinis projekto konkursas";188710061;;2;N;N;Y;N;"Projekto konkursas";I;Patvirtinta;62313;;;;
 2021;"ŽIVS 21";1021120;1;Paslaugos;805;80570000-0;"Bendrieji mokymai valstybės tarnautojams ir darbuotojams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61706;;;;
 2021;AP-21;10200;58;Paslaugos;665;66510000-8;"Valstybės tarnautojų ir darbuotojų dirbančių pagal darbo sutartį bei mero ir jo pavaduotojų atsakomybės draudimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62471;;;;
+2021;"SIS 2021";1090100;17;Prekės;302;30213100-6;"Nešiojamieji kompiuteriai";188710061;"2021 pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;63172;;;;
 2021;AP-21;10200;112;Paslaugos;799;79932000-6;"Darbo erdvių interjero projektavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62224;;;;
 2021;ENE-2021;1020930;13;Darbai;Darbai;45232423-3;"Nuotekų siurblinės A. Graičiūno g. 36B statyba";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;62952;;;;
 2021;AP-21;10200;114;Darbai;Darbai;45000000-7;"Daugiabučio gyvenamojo namo, Darbininkų g. 16, Vilniuje, kapitalinio remonto darbai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62391;;;;
@@ -656,6 +663,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;13;Darbai;Darbai;45343000-3;"Dujinės gaisro gesinimo sistemos įrengimo darbai";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;61733;;;;
 2021;KUL-2021;30100;3;Paslaugos;732;73210000-7;"Rekomendacijų parengimo dėl Vilniaus kūrybinių industrijų plėtros skatinimo veiksmų plano paslaugos";188710061;"2021 M. KULTŪROS PIRKIMŲ PLANAS";1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62350;;;;
 2021;ENE-2021;1020930;27;Prekės;446;44613800-8;"Komunalinių atliekų konteinerių aikštelių įrengimas ir komunalinių atliekų konteinerių aikštelėms įsigijimas Vilniaus mieste";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;61930;;;;
+2021;RKS2020;1400300;11;Prekės;386;38650000-6;"Foto prekės";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63232;;;;
 2021;KUL-2021;30100;5;Paslaugos;732;73210000-7;"ES projekto „Kūrybiniai uostai“ eksperto paslaugos";188710061;"2021 M. KULTŪROS PIRKIMŲ PLANAS";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63035;;;;
 2021;AP-21;10200;42;Paslaugos;665;66510000-8;"VMSA seniūnijų ir nutolusių padalinių patalpų draudimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61715;;;;
 2021;ENE-2021;1020930;29;Paslaugos;713;71319000-7;"Komunalinių atliekų konteinerių aikštelės ar aikštelių grupės supaprastinto statybos projekto bendrosios bei specialiosios ekspertizės paslaugos";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62512;;;;
@@ -664,6 +672,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"SPORT 21";1021050;18;Darbai;Darbai;45236119-7;"Sporto aikštyno Vilniuje, Kaukysos g.,  atnaujinimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62670;;;;
 2021;11;10106000;83;Prekės;392;39298400-1;"Suvenyriniai angeliukai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62370;;;;
 2021;"SIS 2021";1090100;31;Paslaugos;722;72211000-7;"Asmenų aptarnavimo kokybės vertinimo sistemos tobulinimas";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62314;;;;
+2021;11;10106000;84;Paslaugos;989;98910000-5;"Paraiškų teikimas tarptautinėms nominacijoms, apdovanojimams, konkursams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63312;;;;
 2021;MTA-2021;1021020;6;Paslaugos;906;90600000-3;"Vilniaus miesto bendrojo naudojimo teritorijų sanitarinio valymo ir želdinių priežiūros paslaugos";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";5;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;61732;;;;
 2021;AP-21;10200;28;Paslaugos;504;50411000-9;"Alkotesterio patikra";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61768;;;;
 2021;AP-21;10200;11;Prekės;181;18100000-0;"Profesiniai drabužiai, specialūs darbo drabužiai ir jų priedai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;62113;;;;
@@ -681,16 +690,18 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;ITG21;1021130;50;Prekės;385;38520000-6;Skaitytuvai;188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63152;;;;
 2021;"SPORT 21";1021050;18;Darbai;Darbai;45236119-7;"Sporto aikštyno Vilniuje, Kaukysos g.,  atnaujinimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;61730;;;;
 2021;MTA-2021;1021020;21;Prekės;395;39522530-1;"Tentinis angaras";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61686;;;;
+2021;1;1021040;10;Paslaugos;851;85142300-9;"Higienos paslaugos socialiai remtiniems asmenims Vilniaus m.";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;63212;;;;
 2021;"SPORT 21";1021050;17;Darbai;Darbai;45236119-7;"Sporto aikštynų Vilniaus ugdymo įstaigose atnaujinimo darbai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;61746;;;;
-2021;CSS-2021;16100;10;Prekės;331;33141420-0;"Chirurginės pirštinės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62893;;;;
 2021;1;1021080;4;Paslaugos;794;79421000-1;"Konsultacinės paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62551;;;;
 2021;ITG21;1021130;16;Prekės;322;32250000-0;"Judriojo ryšio techninė įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62872;;;;
 2021;AP-21;10200;32;Prekės;391;39150000-8;"Įvairūs baldai bei įranga (Naujamiesčio seniūnija)";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62010;;;;
+2021;RKS2020;1400300;11;Prekės;386;38650000-6;"Foto prekės";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63273;;;;
 2021;11;10106000;52;Paslaugos;791;79120000-1;"Iniciatyvų ir projektų patentavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62913;;;;
 2021;ENE-2021;1020930;26;Darbai;Darbai;45332000-3;"Vilniaus miesto savivaldybės administracijos valdomų ir bešeimininkių vandentiekio ir nuotekų šalinimo tinklų rekonstravimo ir (ar) remonto darbai";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;61726;;;;
 2021;ENE-2021;1020930;8;Paslaugos;798;79810000-5;"Spausdinimo paslaugos bešeimininkių statinių sąrašams paskelbti respublikiniame spausdinyje";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;62735;;;;
 2021;1;1021070;4;Paslaugos;794;79411000-8;"Konsultacinės bei susijusios paslaugos dėl BĮ „Lietuvos Vaikų ir Jaunimo Centro“ veiklos peržiūros";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;61790;;;;
 2021;INF-2021;1020960;45;Darbai;Darbai;45112700-2;"Viešosios erdvės Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g. sutvarkymo darbai su darbo projekto parengimu";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;62734;;;;
+2021;RKS2020;1400300;5;Paslaugos;798;79824000-6;"Veiklos ataskaitos už 2019 m. bukletų platinimo paslaugos";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63292;;;;
 2021;AP-21;10200;61;Paslaugos;642;64212500-0;"Transporto kontrolės sistema";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62410;;;;
 2021;ENE-2021;1020930;2;Paslaugos;507;50700000-2;"Inžinerinių sistemų ir statinių techninės priežiūros ir remonto paslaugos Vilniaus miesto ikimokyklinio ugdymo įstaigose (darželiuose) bei švietimo įstaigose (mokyklose) D ir E zonos";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62030;;;;
 2021;ENE-2021;1020930;3;Paslaugos;507;50700000-2;"Inžinerinių sistemų ir statinių techninės priežiūros ir remonto paslaugos Vilniaus miesto ikimokyklinio ugdymo įstaigose (darželiuose) bei švietimo įstaigose (mokyklose) A ir B zonos";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62031;;;;
@@ -698,7 +709,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;67;Prekės;442;44211100-3;"Modulinių patalpų nuoma";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62411;;;;
 2021;ITG21;1021130;43;Paslaugos;798;79800000-2;"Spausdinimo ir susietos paslaugos";188710061;"Inovacijų ir technologijų grupės planas";3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;62444;;;;
 2021;"SIS 2021";1090100;24;Prekės;445;44521120-5;"Elektros spynos";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62712;;;;
-2021;ITG21;1021130;3;Prekės;488;48800000-6;"Oracle duomenų bazių tarnybinių stočių palaikymas";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62753;;;;
 2021;"ŽIVS 21";1021120;9;Paslaugos;805;80580000-3;"Užsienio kalbos mokymai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;61714;;;;
 2021;ITG21;1021130;45;Prekės;301;30174000-9;"Etikečių spausdintuvai";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62630;;;;
 2021;021;1070100;8;Prekės;391;39110000-6;"Reprezentaciniai baldai iškilmingų santuokų erdvėms";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;62432;;;;
@@ -706,7 +716,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;ITG21;1021130;19;Prekės;311;31154000-0;"Rezervinio maitinimo blokų tinklo įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62591;;;;
 2021;VŠT2021;1016400;11;Paslaugos;501;50118110-9;"Automobilių transportavimo paslauga";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;63112;;;;
 2021;VMAS21;1021090;11;Paslaugos;712;71210000-3;"„Žaliojo Vilniaus politikos“ dokumento projekto  recenzijų parengimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62439;;;;
-2021;ITG21;1021130;47;Prekės;480;48000000-8;"Žmogaus emocinės būklės iš veido mimikos (biometrinių duomenų) nustatymo sprendimo sukūrimas";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62792;;;;
+2021;ENE-2021;1020930;6;Paslaugos;507;50700000-2;"Inžinerinių sistemų ir statinių techninės priežiūros ir remonto paslaugos Vilniaus miesto ikimokyklinio ugdymo įstaigose (darželiuose) bei švietimo įstaigose (mokyklose) C zona";188710061;"2021 m. Energetikos skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;63332;;;;
 2021;1;1021040;16;Paslaugos;853;85320000-8;"Nefrologinių ligonių nuvežimo į ir iš gydymo įstaigų paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62812;;;;
 2021;"SPORT 21";1021050;14;Paslaugos;792;79212000-3;"Biudžetinės įstaigos Vilniaus mesto sporto centras išorinis finansinės veiklos, mokestinis ir turto auditas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61750;;;;
 2021;"SIS 2021";1090100;22;Prekės;315;31523000-8;"Šviečiantys saugos ženklai";188710061;"2021 pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62610;;;;
@@ -721,9 +731,13 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;"ŽIVS 21";1021120;8;Paslaugos;805;80511000-9;"Seniūnijų veiklos mokymai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61713;;;;
 2021;MP-2021;1020940;2;Paslaugos;642;64216200-5;"VĮ Registrų centras duomenų, reikalingų Vilniaus mieste esančio nekilnojamojo turto ir žemės sklypų verčių analizės paslaugos";188710061;"2021 m. Finansų ir ekonomikos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62051;;;;
 2021;AP-21;10200;3;Prekės;391;39130000-2;"Biuro baldai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62392;;;;
+2021;ITG21;1021130;51;Paslaugos;720;72000000-5;"Dokumentų valdymo sistemos „Avilys“ palaikymo paslaugos";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63192;;;;
 2021;"SPORT 21";1021050;20;Prekės;374;37420000-8;"Sporto įrenginiai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;63093;;;;
 2021;JS;1020970;3;Paslaugos;732;73220000-0;"Jaunimo programų ekspertinio vertinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;62772;;;;
+2021;RKS2020;1400300;2;Paslaugos;798;79810000-5;"Veiklos ataskaitos už 2020 m. bukletų spausdinimo paslaugos";188710061;"2021 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63252;;;;
 2021;ITG21;1021130;22;Prekės;302;30200000-1;"Testavimo punktų kompiuterinė įranga";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63012;;;;
+2021;INF-2021;1020960;8;Darbai;Darbai;45233252-0;"Vilniaus miesto susisiekimo komunikacijų rekonstrukcija ir kapitalinis remontas";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;63293;;;;
+2021;EIS-2021;1017100;2;Paslaugos;601;60112000-6;"Vežėjo parinkimo keleivių vežimo paslaugoms teikti vietinio reguliaraus susisiekimo autobusų maršrutais Vilniaus miesto ir gretimų savivaldybių teritorijose paslaugų pirkimas";188710061;"2021 m. Eismo organizavimo skyriaus pirkimų planas";9;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;63372;;;;
 2021;CSS-2021;16100;1;Prekės;244;24455000-8;"Dezinfekcijos priemonės (COVID-19)";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62672;;;;
 2021;11;10106000;5;Prekės;392;39221121-1;"Puodeliai su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62223;;;;
 2021;VŠT2021;1016400;7;Prekės;189;18938000-3;"Vienkartiniai maišeliai gyvūnų ekskrementams rinkti su dėklais";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62152;;;;
@@ -734,6 +748,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;8;Paslaugos;851;85100000-0;"Privalomieji darbuotojų sveikatos tikrinimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61950;;;;
 2021;AP-21;10200;80;Prekės;391;39150000-8;"Įvairūs baldai bei įranga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61606;;;;
 2021;021;1070100;9;Prekės;392;39298300-0;"Vazonai augalams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;62230;;;;
+2021;"ŽIVS 21";1021120;16;Paslaugos;723;72318000-7;"Iššūkio sukūrimo programa";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;63272;;;;
 2021;11;10106000;21;Prekės;185;18530000-3;"Akinių šluostės su Vilniaus logotipu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62218;;;;
 2021;ENE-2021;1020930;5;Darbai;Darbai;45332000-3;"Gatvės (8.2) Vismaliukų g. 34 statyba“ slėgio pakėlimo stoties dalis";188710061;"2021 m. Energetikos skyriaus pirkimų planas";1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;62992;;;;
 2021;INF-2021;1020960;55;Paslaugos;730;73000000-2;"Vilniaus miesto gatvių medžiagiškumo ir mažosios architektūros detalizacijų parengimo paslaugos";188710061;"2021 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61735;;;;
@@ -743,14 +758,12 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2021;AP-21;10200;38;Prekės;391;39150000-8;"Akustinės pertvaros, stalviršiai, baldų dalys";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62232;;;;
 2021;ITG21;1021130;46;Prekės;302;30200000-1;"Kompiuterinė įranga atitinkanti Tempest A lygio standartą";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;62932;;;;
 2021;ITG21;1021130;17;Prekės;488;48820000-2;"Atsarginių kopijų techninės ir programinės įrangos palaikymas";188710061;"Inovacijų ir technologijų grupės planas";3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;62312;;;;
-2021;ITG21;1021130;49;Paslaugos;722;72200000-7;"Vakcinavimo darbo proceso integracijos  palaikymo ir konsultacijos paslaugos";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63033;;;;
 2021;VMAS21;1021090;12;Paslaugos;713;71351914-3;"Vokiečių gatvės detalieji archeologiniai tyrimai";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;62592;;;;
 2021;AP-21;10200;99;Prekės;182;18235400-9;Liemenės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62153;;;;
 2021;021;1070100;1;Paslaugos;507;50700000-2;"Pastato K. Kalinausko g. 21/1 Vilniuje eksploatavimo   paslaugos";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;61870;;;;
 2021;EIS-2021;1017100;21;Darbai;Darbai;45223300-9;"Elektromobilių įkrovimo aikštelių įrengimo darbai priežiūros paslaugos";188710061;"2021 m. Eismo organizavimo skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;62437;;;;
 2021;MTA-2021;1021020;22;Prekės;395;39522530-1;"Tentinis angaras";188710061;"2021 m. Miesto tvarkymo ir aplinkos apsaugos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62650;;;;
 2021;"SPORT 21";1021050;10;Darbai;Darbai;45212221-1;"Projekto ""Vilniaus Žirmūnų gimnazijos, Žirmūnų g. 37 sporto aikštyno rekonstravimo statybos projektas"" statybos rangos darbai su darbo projekto parengimu";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;62832;;;;
-2021;ITG21;1021130;48;Prekės;485;48517000-5;"Vakcinavimo darbo proceso integracijos valdymo sistema";188710061;"Inovacijų ir technologijų grupės planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;63032;;;;
 2021;AP-21;10200;64;Paslaugos;665;66516500-5;"Vilniaus miesto savivaldybės administracijos direktoriaus kaip vadovo civilinė atsakomybė, draudimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62570;;;;
 2021;MP-2021;1020940;2;Paslaugos;642;64216200-5;"VĮ Registrų centras duomenų, reikalingų Vilniaus mieste esančio nekilnojamojo turto ir žemės sklypų verčių analizės paslaugos";188710061;"2021 m. Finansų ir ekonomikos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;62052;;;;
 2021;VMAS21;1021090;4;Paslaugos;716;71630000-3;"Naujamiesčio „Baltųjų stulpų“ vietos žvalgomieji archeologiniai tyrimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;61931;;;;
