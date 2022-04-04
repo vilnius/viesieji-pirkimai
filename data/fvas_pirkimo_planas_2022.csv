@@ -34,10 +34,16 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;AP-22;10200;103;Prekės;444;44421720-0;"Asmeninių daiktų saugojimo spintelės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68836;16053;A55-2693/22;17-MAR-22;605
 2022;2022;16200;2;Darbai;Darbai;45255400-3;"Bešeimininkių kačių būdų gamyba (slėptuvės)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;68937;16062;A62-212/22;22-MAR-22;5940
 2022;1;16100;38;Prekės;337;33760000-5;"Tualetinis popierius, nosinės, popieriniai rankšluosčiai ir servetėlės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69280;16075;A252-156/22(2.1.19-CIV);09-MAR-22;3629.99
+2022;22110000-422110000-4;10106000;50;Paslaugos;798;79810000-5;"Leidinių platinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67677;16090;"2022-13-22 (3.10.15E-AD8) /6";12-JAN-22;871.2
+2022;1;16100;35;Prekės;395;39511100-8;Antklodės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69257;16093;;15-MAR-22;12099.99
 2022;RKS2022;1400300;11;Prekės;386;38650000-6;"Foto prekės";188710061;"2022 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67636;16058;A252-11/22(2.1.19-T2);17-JAN-22;3629.99
+2022;22110000-422110000-4;10106000;83;Paslaugos;795;79530000-8;"Vertimo pasaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68037;16106;A252-68/22(3.10.15E-AD8)/22;02-FEB-22;110.8
 2022;22110000-422110000-4;10106000;50;Paslaugos;798;79810000-5;"Leidinių platinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67677;16068;A252-13/22(3.10.15E-AD8)/6;12-JAN-22;1422.96
+2022;EIS-2022;1017100;47;Paslaugos;713;71320000-7;"Modulinio tipo kilnojamų dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo saugyklų parinktų lokacijų vizualizavimo ir konstrukcinių sprendimų detalizavimo paslaugos";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69478;16105;A62-243/22;01-APR-22;12098.79
+2022;RKS2022;1400300;13;Paslaugos;642;64216000-3;"Elektroninių pranešimų ir informacijos paslaugos";188710061;"2022 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68036;16091;A62-164/22;01-MAR-22;11070.91
 2022;SIS-2022;1090100;35;Paslaugos;909;90910000-9;"Purvą sugeriančių kilimėlių keitimas";188710061;"2022 metų SIS pirkimų planas";1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;67976;16015;A62-172/22;28-FEB-22;1210
 2022;RKS2022;1400300;16;Prekės;221;22160000-9;"Veiklos ataskaitos už 2021 m. bukletai";188710061;"2022 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68176;16024;A62-163/22;21-FEB-22;11500
+2022;22110000-422110000-4;10106000;50;Paslaugos;798;79810000-5;"Leidinių platinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67677;16096;A252713/22(3.10.15E-AD8)/7;12-JAN-22;551.76
 2022;22110000-422110000-4;10106000;50;Paslaugos;798;79810000-5;"Leidinių platinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67677;16029;"A252-13/22 (3.10.15E-AD8)/4";12-JAN-22;205.7
 2022;22110000-422110000-4;10106000;46;Paslaugos;798;79810000-5;"Spausdinimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67557;16030;A252-7/22(3.10.15E-AD8)/5;01-JAN-22;261.36
 2022;SIS-2022;1090100;39;Prekės;480;48000000-8;"Microsoft Office 365 Business Basic";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69296;16059;A62-203/22;18-MAR-22;4983.26
@@ -104,7 +110,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;RKS2022;1400300;2;Paslaugos;799;79952000-2;"Renginių organizavimo paslaugos";188710061;"2022 metų pirkimų planas";3;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;;;;;
 2022;VTS2022;1016400;19;Prekės;181;18110000-3;"Profesiniai drabužiai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2022;ITG2022;1021130;8;Paslaugos;722;72253200-5;"Vmware palaikymo paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
-2022;ENE-2022;1020930;26;Paslaugos;722;72263000-6;"Atliekų turėtojų informacinės sistemos diegimo ir priežiūros paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
+2022;ENE-2022;1020930;26;Paslaugos;722;72263000-6;"Atliekų turėtojų registro, atliekų surinkimo stebėsenos ir valdymo informacinė sistema";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2022;S10-2022;1011700;6;Darbai;Darbai;45236119-7;"Sporto aikštelių remontas";188710061;"Panerių seniūnijos 2022 m. pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2022;EIS-2022;1017100;7;Paslaugos;723;72300000-8;"Debesijos paslaugos";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";5;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2022;1;1021040;2;Paslaugos;555;55510000-8;"Valgio benamiams pagaminimo ir teikimo Vilniaus mieste paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
@@ -121,7 +127,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;1;1021040;4;Paslaugos;923;92312000-1;"Socialinių darbuotojų dienos minėjimas";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2022;22110000-422110000-4;10106000;19;Prekės;392;39221140-0;"Gertuvės su Vilniaus ženklu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;1;16100;6;Paslaugos;923;92312100-2;"Konferencijos atidarymo muzikinė programa";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2022;"MTAAS 22";1021020;18;Darbai;Darbai;45453000-7;"Viešųjų tualetų V. Kudirkos a. 11A  ir Vokiečių g. 13  remontas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
+2022;"MTAAS 22";1021020;18;Darbai;Darbai;45453000-7;"Viešojo kanalizuoto tualeto V. Kudirkos a. 11A remontas";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;"MTAAS 22";1021020;25;Paslaugos;900;90000000-7;"Vilniaus miesto biotualetų priežiūros paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2022;EIS-2022;1017100;28;Darbai;Darbai;45233292-2;"Specializuotų eismo saugumo priemonių įrengimo darbai Centrinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;AP-22;10200;24;Darbai;Darbai;45453100-8;"Antakalnio seniūnijos remonto darbai";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
@@ -182,7 +188,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;ŠAS2022;1021070;19;Darbai;Darbai;45000000-7;"Lopšelio-darželio Pajautos g. 7, Vilniuje, statybos darbai su darbo projekto parengimu";188710061;;2;N;N;Y;N;"Atviras konkursas";IV;Patvirtinta;;;;;
 2022;SIS-2022;1090100;16;Prekės;323;32323000-3;Monitoriai;188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2022;S12;1011900;2;Darbai;Darbai;45233253-7;"Pėsčiųjų takų dangos remontas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2022;SIS-2022;1090100;28;Paslaugos;508;50800000-3;"Stelažų ardymo ir surinkimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
+2022;SIS-2022;1090100;28;Paslaugos;508;50800000-3;"Stelažų ardymo ir surinkimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2022;SIS-2022;1090100;18;Prekės;228;22852100-8;"Bylų viršeliai";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;1;1020990;3;Prekės;185;18530000-3;"Suvenyrai, atminimo dovanos su Savivaldybės ir korupcijos temos prevencijos atributika";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;EIS-2022;1017100;35;Darbai;Darbai;45233292-2;"Pėsčiųjų atitvarų, stulpelių įrengimo ir priežiūros darbai Vakarinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -206,12 +212,12 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;KUL-2022;30100;4;Paslaugos;732;73210000-7;"ES projekto „Kūrybiniai uostai“ konsultanto paslaugos pirkimas";188710061;"Kultūros skyriaus 2022 m. pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2022;SIS-2022;1090100;22;Prekės;323;32351200-0;"Komerciniai FullHD ekranai";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;AP-22;10200;82;Prekės;392;39200000-4;"Šv. Kalėdų papuošimai: šviečiančios vidaus girliandos, eglutės (1 a. holas ir 19 a.)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
+2022;22110000-422110000-4;10106000;86;Paslaugos;641;64100000-7;"Pašto ir kurjerių paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;SEN/2022;1012300;3;Darbai;Darbai;45233200-1;"Šaligatvių, laiptų ir kitų dangų remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;VTS2022;1016400;4;Prekės;349;34928430-1;"Švyturėlių juostos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;AP-22;10200;77;Prekės;181;18100000-0;"Profesiniai drabužiai, specialūs darbo drabužiai ir jų priedai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;INF-2022;1020960;17;Darbai;Darbai;45233252-0;"Tarandės gatvės nuo Ukmergės g. iki Putiniškių g. rekonstravimas";188710061;"2022 m. Infrastruktūros skyriaus pirkimų planas";2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2022;ŠAS2022;1021070;26;Paslaugos;712;71220000-6;"Mokslo paskirties pastato  Miglos g, Vilniuje, architektūrinio atviro projekto konkursas";188710061;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
-2022;1;1021040;1;Paslaugos;507;50750000-7;"Keltuvų neįgaliesiems techninės priežiūros ir remonto paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2022;SEN1;1011400;2;Paslaugos;923;92300000-4;-;188710061;"Naujamiesčio seniūnijos prikimų planas 2022";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2022;AP-22;10200;74;Paslaugos;851;85100000-0;"Privalomieji darbuotojų sveikatos tikrinimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
 2022;22110000-422110000-4;10106000;51;Paslaugos;798;79810000-5;"Dizaino ir maketavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
@@ -283,7 +289,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;AP-22;10200;76;Darbai;Darbai;45233270-2;"VMSA požeminės stovėjimo aikštelės ženklinimo darbai (dažymas)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;AP-22;10200;29;Prekės;301;30192000-1;"Kanceliarinės prekės";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2022;EIS-2022;1017100;43;Darbai;Darbai;45316212-4;"Kalvarijų gatvės ties P. Smuglevičiaus gatve šviesoforų posto įrengimas";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;;;;;
-2022;SIS-2022;1090100;30;Paslaugos;983;98390000-3;"Bylų transportavimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
+2022;SIS-2022;1090100;30;Paslaugos;983;98390000-3;"Bylų transportavimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2022;VPP;1021080;5;Paslaugos;712;71248000-8;"Investicinio projekto parengimo paslaugos, Rasų 50B";188710061;;1;N;N;N;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2022;JS;1020970;7;Paslaugos;712;71220000-6;"LVJC pastato Konstitucijos pr. 25, Vilniuje rekonstravimo projekto parengimo, statybą leidžiančio dokumento gavimo ir statinio projekto vykdymo priežiūros paslaugas pirkimas";188710061;;2;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2022;VTS2022;1016400;12;Paslaugos;797;79710000-4;"Apsaugos paslaugos.";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";III;Patvirtinta;;;;;
@@ -321,7 +327,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;VTS2022;1016400;8;Paslaugos;665;66510000-8;"Draudimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;EIS-2022;1017100;37;Darbai;Darbai;45233292-2;"Pėsčiųjų atitvarų, stulpelių įrengimo ir priežiūros darbai Centrinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;SEN/2022;1012600;3;Prekės;445;44510000-8;"Darbo įrankiai ir priemonės teritorijos tvarkymo darbams.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2022;SIS-2022;1090100;29;Paslaugos;983;98392000-7;"Kompiuterinės įrangos, buitinių ir darbuotojų daiktų pervežimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
+2022;SIS-2022;1090100;29;Paslaugos;983;98392000-7;"Kompiuterinės įrangos, buitinių ir darbuotojų daiktų pervežimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";IV;Patvirtinta;;;;;
 2022;EIS-2022;1017100;10;Darbai;Darbai;45233290-8;"Stacionarių kelio ženklų įrengimas ir priežiūra Vakarinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;"MTAAS 22";1021020;2;Paslaugos;516;51612000-5;"„Kelių oro sąlygų (KOS) automatinių/meteorologinių stočių įrengimo ir kitų susijusių paslaugų pirkimas“";188710061;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2022;ŠAS2022;1021070;11;Prekės;181;18143000-3;"Apsaugos priemonės (Pirštinės)";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
@@ -381,6 +387,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;SPORT2022;1021050;5;Prekės;182;18230000-0;"Viršutiniai drabužiai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;22110000-422110000-4;10106000;66;Paslaugos;921;92100000-2;"Vaizdo klipų apie Vilnių kūrimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;22110000-422110000-4;10106000;43;Paslaugos;799;79970000-4;"Spalvinimo knygelės su Vilniaus akcentais parengimas ir leidyba";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
+2022;"MTAAS 22";1021020;28;Darbai;Darbai;45453000-7;"Viešojo kanalizuoto tualeto Vokiečių g. 13 remontas";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;ITG2022;1021130;37;Prekės;325;32551300-3;Ausinės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;EIS-2022;1017100;30;Darbai;Darbai;45233280-5;"Kelio apsauginių atitvarų įrengimo darbai Centrinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;ENE-2022;1020930;12;Darbai;Darbai;45332000-3;"Vandentiekio ir nuotekų tinklų plėtra Vilniaus mieste";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;;;;;
@@ -400,7 +407,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;VTS2022;1016400;17;Paslaugos;795;79540000-1;"Vertimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;A121-31706/21;1011100;2;Darbai;Darbai;45236290-9;"Justiniškių seniūnijos poilsio zonų remonto darbai.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;SIS-2022;1090100;21;Prekės;331;33182100-0;Defibriliatorius;188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
-2022;SEN/2022;1012600;1;Paslaugos;923;92300000-4;"Kultūrinio renginio organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;ŠAS2022;1021070;22;Paslaugos;712;71220000-6;"Progimnazijos S Lozoraičio g 95/S Šilingo g architektūrinio atviro projekto konkursas";188710061;;2;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;;;;;
 2022;ENE-2022;1020930;9;Darbai;Darbai;45251100-2;"Saulės elektrinės įrengimas   Vilniaus miesto savivaldybės administracijos pastate(Konstitucijos pr. 3)";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;;;;;
 2022;AP-22;10200;52;Paslaugos;500;50000000-5;"Automobilių remonto paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
@@ -537,7 +543,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;Naujininkų;1011500;5;Paslaugos;799;79952000-2;"Burbiškių bendruomenės šventė";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;"CMS 22";1070100;8;Prekės;391;39131100-0;"Stelažai archyvui III a.";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;;;;;
 2022;EIS-2022;1017100;23;Darbai;Darbai;45233221-4;"Horizontalaus ženklinimo darbai Rytinėje miesto teritorijoje";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
-2022;"MTAAS 22";1021020;19;Paslaugos;601;60100000-9;"Žmogaus palaikų gabenimas, ne iš sveikatos priežiūros įstaigos";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;;;;;
+2022;SIS-2022;1090100;40;Paslaugos;508;50800000-3;"Kondicionierių priežiūra ir remontas";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;22110000-422110000-4;10106000;11;Prekės;395;39560000-5;"Vilniaus suvenyras";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;;;;;
 2022;ITG2022;1021130;13;Paslaugos;722;72253200-5;"Duomenų centro ugniasienės palaikymo paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";IV;Patvirtinta;;;;;
 2022;1;1021040;21;Paslaugos;983;98300000-6;"Pasitenkinimo socialinėmis paslaugomis apklausos anketos  pritaikymas lengvai suprantama kalba (angl. Easy to read)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;;;;;
@@ -619,7 +625,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;ŽIVS2022;1021120;1;Paslaugos;805;80570000-0;"Bendrieji mokymai valstybės tarnautojams ir darbuotojams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67656;;;;
 2022;RKS2022;1400300;6;Paslaugos;642;64216000-3;"Reklamos paslaugos socialiniame tinkle Facebook";188710061;"2022 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;68236;;;;
 2022;AP-22;10200;36;Paslaugos;665;66519310-7;"Draudimo konsultavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68018;;;;
-2022;22110000-422110000-4;10106000;83;Paslaugos;795;79530000-8;"Vertimo pasaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68037;;;;
 2022;22110000-422110000-4;10106000;6;Prekės;189;18930000-7;"Popieriniai maišeliai su Vilniaus ženklu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;67858;;;;
 2022;1;16100;27;Prekės;337;33711640-5;"Tualeto reikmenu rinkiniai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68996;;;;
 2022;1;16100;33;Prekės;391;39143112-4;Čiužiniai;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69317;;;;
@@ -632,7 +637,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;ITG2022;1021130;50;Prekės;325;32522000-8;"Telekomunikacinės priemonės";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69437;;;;
 2022;ŽIVS2022;1021120;9;Paslaugos;805;80580000-3;"Užsienio kalbos mokymai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67723;;;;
 2022;SEN-2022;1011000;7;Darbai;Darbai;45317000-2;"Grigiškių seniūnijos pastato elektros remonto darbai";188710061;"2022 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69282;;;;
-2022;EIS-2022;1017100;47;Paslaugos;713;71320000-7;"Modulinio tipo kilnojamų dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo saugyklų parinktų lokacijų vizualizavimo ir konstrukcinių sprendimų detalizavimo paslaugos";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69478;;;;
 2022;SIS-2022;1090100;33;Paslaugos;508;50800000-3;"Pastato priežiūros ir administravimo paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68616;;;;
 2022;AP-22;10200;89;Paslaugos;909;90911200-8;"Pastato, Konstitucijos pr. 3, valymo paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;68396;;;;
 2022;INF-2022;1020960;34;Darbai;Darbai;45000000-7;"Vandentiekio, buitinių ir paviršinių nuotekų tinklų, pėsčiųjų ir dviračių takų statybos projektas, statybos, vandentiekio, butinių ir paviršinių nuotekų tinklų, Neries krantinių nuo Žirmūnų g.1F iki Upės g.21, Vilniuje, statybos ranga";188710061;"2022 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;69379;;;;
@@ -646,6 +650,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;"MTAAS 22";1021020;26;Darbai;Darbai;45215400-1;"Antkapio Lietuvos Nepriklausomybės Akto signatarui Vytautui Kolesnikovui pastatymas ir kapavietės sutvarkymas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68864;;;;
 2022;AS2022;1010800;9;Paslaugos;710;71000000-8;"Projekto parengimas Antakalnio seniūnijos patalpų elektros darbams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69536;;;;
 2022;KPAS;1021150;4;Paslaugos;713;71310000-4;"Nekilnojamojo kultūros paveldo apskaitos dokumentų rengimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68120;;;;
+2022;AP-22;10200;113;Prekės;445;44510000-8;"Sodo įrankiai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69636;;;;
 2022;INF-2022;1020960;34;Darbai;Darbai;45000000-7;"Vandentiekio, buitinių ir paviršinių nuotekų tinklų, pėsčiųjų ir dviračių takų statybos projektas, statybos, vandentiekio, butinių ir paviršinių nuotekų tinklų, Neries krantinių nuo Žirmūnų g.1F iki Upės g.21, Vilniuje, statybos ranga";188710061;"2022 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;69396;;;;
 2022;KUL-2022;30100;12;Prekės;185;18530000-3;"Vilniaus miesto savivaldybės mecenatų ženklai";188710061;"Kultūros skyriaus 2022 m. pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68556;;;;
 2022;1;16100;32;Prekės;395;39510000-0;"Namų apyvokai skirti tekstilės dirbiniai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69236;;;;
@@ -653,7 +658,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;ITG2022;1021130;46;Paslaugos;722;72212000-4;"Dokumentų pasirašymo el. būdu per išorinį komponentą paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69239;;;;
 2022;22110000-422110000-4;10106000;85;Prekės;158;15842100-3;"Suvenyriniai šokoladai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68956;;;;
 2022;1;16100;24;Paslaugos;905;90520000-8;"Pavojingų atliekų surinkimas ir utilizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68796;;;;
-2022;1;16100;35;Prekės;395;39511100-8;Antklodės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69257;;;;
 2022;ENE-2022;1020930;22;Prekės;446;44613800-8;"Komunalinių atliekų konteinerių aikštelių įrengimas ir komunalinių atliekų konteineriai aikštelėms Vilniaus mieste";188710061;;2;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;68076;;;;
 2022;INF-2022;1020960;5;Paslaugos;713;71319000-7;"Statinio projekto bendroji, dalies, specialioji ekspertizė ir statinio projekto sprendinių ekspertizė";188710061;"2022 m. Infrastruktūros skyriaus pirkimų planas";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;68861;;;;
 2022;1;16100;37;Prekės;395;39516120-9;Pagalvės;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69320;;;;
@@ -661,6 +665,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;SIS-2022;1090100;37;Paslaugos;503;50340000-0;"Vaizdo kamerų ir praėjimo kontrolės sistemos priežiūros ir remonto paslaugos";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69576;;;;
 2022;AP-22;10200;68;Darbai;Darbai;45453100-8;"Pastato vidaus patalpų remonto ir atnaujinimo darbai";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;67977;;;;
 2022;SEN-2022;1011000;1;Paslaugos;507;50700000-2;"Grigiškių  seniūnijos patalpų administravimas";188710061;"2022 m. Grigiškių seniūnijos pirkimų planas";3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69281;;;;
+2022;VTS2022;1016400;21;Paslaugos;720;72000000-5;"PHP programavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69637;;;;
 2022;Naujininkų;1011500;9;Prekės;390;39000000-2;"Įvairūs baldai ir įranga Naujininkų seniūnijoje";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69456;;;;
 2022;EIS-2022;1017100;46;Prekės;221;22120000-7;"Kelio eismo taisyklių leidiniai";188710061;"2022 m. Eismo organizavimos skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69036;;;;
 2022;1;16100;27;Prekės;337;33711640-5;"Tualeto reikmenu rinkiniai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69398;;;;
@@ -714,6 +719,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;SPORT2022;1021050;9;Darbai;Darbai;45236119-7;"Sporto aikštynų Vilniaus ugdymo įstaigose atnaujinimo darbai";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;67518;;;;
 2022;ITG2022;1021130;51;Paslaugos;722;72240000-9;"Administracinių nusižengimų administravimo modulio palaikymo ir tobulinimo paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;69522;;;;
 2022;SIS-2022;1090100;8;Prekės;322;32250000-0;"Mobilieji telefonai";188710061;"2022 metų SIS pirkimų planas";1;N;N;N;N;"Atviras konkursas";I;Patvirtinta;69497;;;;
+2022;SEN/2022;1012600;1;Paslaugos;923;92300000-4;"Kultūrinio renginio organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69596;;;;
 2022;INF-2022;1020960;33;Paslaugos;714;71400000-2;"Stoties aikštės rekonstrukcijos įrengiant viešojo transporto terminalą ir viešąsias erdves projektavimo užduoties parengimas";188710061;"2022 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69176;;;;
 2022;AP-22;10200;3;Darbai;Darbai;45453100-8;"Pavilnio bendruomenės namų, Vandens g. 9 vidaus remontas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;68136;;;;
 2022;22110000-422110000-4;10106000;22;Paslaugos;553;55320000-9;"Maitinimo paslaugų organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68436;;;;
@@ -732,6 +738,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;22110000-422110000-4;10106000;21;Paslaugos;920;92000000-1;"Kultūrinių renginių organizavimasKultūrinių renginių organizavimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68516;;;;
 2022;S18-2022;1012400;4;Prekės;374;37410000-5;"Treniruokliai Balsių g. ir jų įrengimas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68736;;;;
 2022;ITG2022;1021130;25;Prekės;323;32323000-3;Monitoriai;188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;68820;;;;
+2022;AP-22;10200;114;Prekės;480;48000000-8;"Pastato valdymo sistemos (BMS) funkcionalumo išplėtimas diegiant dirbtinio intelekto ir Skaitmeninio dvynio technologijas";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69676;;;;
 2022;1;1021040;14;Paslaugos;712;71220000-6;"Paslaugų paskirties pastato (dienos centro ir dienos užimtumo centro) (7.4), Giraitės g. 1A, Vilniuje, statybos techninio projekto parengimo, SLD gavimo ir SPVP paslaugos";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;68127;;;;
 2022;1;16100;27;Prekės;337;33711640-5;"Tualeto reikmenu rinkiniai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69377;;;;
 2022;1;16100;2;Prekės;336;33600000-6;"Farmacijos produktai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67576;;;;
@@ -763,7 +770,6 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;S18-2022;1012400;3;Prekės;441;44113330-7;"Verkių seniūnijos mažojo futbolo aikštelės dirbtinė danga ir jos įrengimas";188710061;;1;N;N;Y;N;"Mažos vertės pirkimai";I;Patvirtinta;68696;;;;
 2022;1;1021040;11;Paslaugos;712;71220000-6;"Gyvenamosios paskirties (įvairių socialinių grupių asmenims) paskirties pastato (6.4), Plytinės g. 33, Vilniuje, statybos techninio projekto parengimo, SLD gavimo ir SPVP paslaugos";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;68118;;;;
 2022;ITG2022;1021130;47;Paslaugos;722;72243000-0;"IT žmogiškųjų išteklių programuotojo paslaugos Tvarkau miestą iOS aplikacijos palaikymui";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69277;;;;
-2022;RKS2022;1400300;13;Paslaugos;642;64216000-3;"Elektroninių pranešimų ir informacijos paslaugos";188710061;"2022 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68036;;;;
 2022;1;16100;27;Prekės;337;33711640-5;"Tualeto reikmenu rinkiniai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69378;;;;
 2022;AP-22;10200;81;Paslaugos;507;50700000-2;"Aukštalipių paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;69276;;;;
 2022;AP-22;10200;109;Prekės;392;39222110-8;"Prekės pabėgėliams";188710061;;1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;69382;;;;
@@ -771,12 +777,14 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;"CMS 22";1070100;15;Prekės;391;39130000-2;"Baldai I a. kabinetams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68597;;;;
 2022;S18-2022;1012400;12;Prekės;445;44510000-8;"Įrankiai ir darbo priemonės teritorijos tvarkymui";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69376;;;;
 2022;ITG2022;1021130;18;Paslaugos;720;72000000-5;"Dalyvaujamojo biudžeto sistemos plėtros paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;67736;;;;
+2022;"MTAAS 22";1021020;19;Paslaugos;601;60100000-9;"Žmogaus palaikų gabenimas, ne iš sveikatos priežiūros įstaigos";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;69617;;;;
 2022;SEN-2022;1011000;5;Prekės;445;44512000-2;"Krūmapjovės pirkimas";188710061;"2022 m. Grigiškių seniūnijos pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67616;;;;
 2022;ITG2022;1021130;32;Prekės;487;48761000-0;"Antivirusinė programinė įranga Vilniaus miesto savivaldybės darbo vietoms";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";II;Patvirtinta;69337;;;;
 2022;AS2022;1010800;9;Paslaugos;710;71000000-8;"Projekto parengimas Antakalnio seniūnijos patalpų elektros darbams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69520;;;;
 2022;ITG2022;1021130;45;Paslaugos;723;72318000-7;"Duomenų perdavimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67882;;;;
 2022;ŽIVS2022;1021120;8;Paslaugos;805;80511000-9;"Seniūnijų veiklos mokymai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67722;;;;
 2022;KUL-2022;30100;11;Paslaugos;555;55520000-1;"Maitinimo paslaugos Šv. Kristoforo statulėlės apdovanojimų renginiui";188710061;"Kultūros skyriaus 2022 m. pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67776;;;;
+2022;1;1021040;1;Paslaugos;507;50750000-7;"Keltuvų neįgaliesiems techninės priežiūros ir remonto paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;69656;;;;
 2022;1;16100;10;Paslaugos;503;50324100-3;"Gyventojų perspėjimo ir informavimo sistemos eksploatavimo ir techninės priežiūros paslaugos (Digitex valdomos programinės įrangos)";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67756;;;;
 2022;ITG2022;1021130;44;Prekės;325;32522000-8;Modemai;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67881;;;;
 2022;AP-22;10200;1;Paslaugos;601;60112000-6;"Viešojo transporto paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;67737;;;;
@@ -786,6 +794,7 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2022;VPP;1021080;9;Paslaugos;791;79111000-5;"Koncesijos procedūrų vykdymo teisinės konsultacinės paslaugos, susijusios su projekto „Daugiafunkcio Lazdynų sveikatinimo centro įkūrimas“ įgyvendinimu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;68865;;;;
 2022;ŠAS2022;1021070;36;Paslaugos;712;71200000-0;"Statinio interjero projekto “VAIKŲ DARŽELIS-LOPŠELIS, BAJORŲ KELIAS 10, VILNIUS STATYBOS PROJEKTAS (8.11)” baldų techninių specifikacijų parengimas";188710061;;1;N;N;Y;N;"Neskelbiamos derybos";I;Patvirtinta;68716;;;;
 2022;AP-22;10200;54;Paslaugos;601;60120000-5;"Taksi pavėžėjimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;68016;;;;
+2022;ITG2022;1021130;52;Prekės;485;48515000-1;"Nnuotolinių susitikimų ir video konferencijų organizavimo platforma";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;69616;;;;
 2022;S18-2022;1012400;9;Prekės;374;37410000-5;"Žiemos sporto įranga";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;67936;;;;
 2022;"MTAAS 22";1021020;6;Prekės;375;37535200-9;"Vaikų žaidimo įrenginių (aikštelių) įrengimas ir priežiūra";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;69380;;;;
 2022;1;1021040;7;Paslaugos;712;71220000-6;"Gyvenamosios paskirties (įvairių socialinių grupių asmenims) paskirties pastato (6.4), Kadugių g. 4, Vilniuje, statybos techninio projekto parengimo, SLD gavimo ir SPVP paslaugos";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;68097;;;;
