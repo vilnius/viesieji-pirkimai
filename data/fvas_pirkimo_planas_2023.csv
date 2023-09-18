@@ -595,8 +595,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2023;1;10106000;53;Paslaugos;799;79970000-4;"„Neakivaizdinio Vilniaus“ leidinių parengimas ir leidyba";188710061;;1;N;N;N;N;"Atviras konkursas";I;Patvirtinta;;;;;
 2023;ITG2023;1021130;47;Prekės;482;48218000-9;"Konsultavimo realiu laiku sistemos licencijos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72959;;;;
 2023;INF-2023;1020960;10;Paslaugos;713;71319000-7;"„Pėsčiųjų tilto per Neries upę nuo A. Goštauto g. iki Upės g., Vilniuje“ techninio projekto ekspertizė";188710061;"2023 m. Infrastruktūros skyriaus pirkimų planas";1;N;Y;Y;N;"Atviras konkursas";I;Patvirtinta;72801;;;;
-2023;1;10106000;51;Paslaugos;725;72514300-4;"Platformos „Neakivaizdinis Vilnius“ techninės priežiūros ir plėtojimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72905;;;;
 2023;1;10106000;8;Prekės;392;39221121-1;"Puodeliai su ženklu „Vilnius 700“";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72821;;;;
+2023;1;10106000;51;Paslaugos;725;72514300-4;"Platformos „Neakivaizdinis Vilnius“ techninės priežiūros ir plėtojimo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72905;;;;
 2023;1;10106000;19;Prekės;395;39525000-8;"Pledai su Vilniaus ženklu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;72835;;;;
 2023;S10-2023;1011700;1;Darbai;Darbai;45420000-7;"Rinkim apylinkių  inventoriaus montavimo ir remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72864;;;;
 2023;S18-2023;1012400;2;Darbai;Darbai;45420000-7;"Verkių seniūnijos rinkimų apylinkių inventoriaus montavimo ir remonto darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72799;;;;
@@ -636,8 +636,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2023;AP-23;10200;117;Prekės;153;15300000-1;"Vaisių produktai protokoliniams renginiams";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72911;;;;
 2023;1;10106000;32;Prekės;392;39221140-0;"Gertuvės su Vilniaus ženklu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;72849;;;;
 2023;SPO-23;1021050;25;Darbai;Darbai;45236119-7;"Universalių sporto paskirties aikštelių įrengimas ikimokyklinio ir priešmokyk-linio ugdymo įstaigose Vilniaus mieste";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;73039;;;;
-2023;AP-23;10200;31;Paslaugos;665;66514110-0;"Transporto priemonių draudimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72804;;;;
 2023;1;1011500;11;Prekės;325;32552600-3;Telefonspynės.;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72867;;;;
+2023;AP-23;10200;31;Paslaugos;665;66514110-0;"Transporto priemonių draudimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72804;;;;
 2023;AP-23;10200;49;Prekės;397;39710000-2;"Elektros prekės";188710061;;1;N;Y;Y;N;"Atviras konkursas";I;Patvirtinta;73083;;;;
 2023;"ES 23";1020930;18;Darbai;Darbai;45332000-3;"Vandentiekio ir nuotekų tinklų plėtra Vilniaus mieste";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;73040;;;;
 2023;NV-2023;1011600;7;Paslaugos;909;90911200-8;"Rinkimų apylinkės valymo paslaugos";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;73079;;;;
@@ -656,10 +656,10 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2023;AP-23;10200;1;Prekės;391;39130000-2;"Pakeliami stalų mechanizmai";188710061;;1;N;N;Y;N;"Atviras konkursas";II;Patvirtinta;73068;;;;
 2023;AP-23;10200;112;Paslaugos;909;90911200-8;"Pastato Konstitucijos per. 3, valymo paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";III;Patvirtinta;72894;;;;
 2023;VŠT2023;16400;15;Prekės;315;31518600-6;Prožektoriai;188710061;"Viešosios tvarkos skyrius";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;73075;;;;
-2023;ŠAS2023;1021070;36;Darbai;Darbai;45000000-7;"Kultūros paskirties pastato, Popieriaus g. 7, Vilniuje, kapitalinio remonto darbų su darbo projekto parengimu pirkimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72869;;;;
 2023;RKS2023;1400300;11;Paslaugos;791;79121000-8;"Legalaus muzikos kūrinių transliavimo paslaugos";188710061;"2023 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;72758;;;;
-2023;"EOS 23";1017100;17;Prekės;349;34971000-4;"Vidutinio greičio matavimo sistem (toliau - VGMS) įrengimas";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;73016;;;;
+2023;ŠAS2023;1021070;36;Darbai;Darbai;45000000-7;"Kultūros paskirties pastato, Popieriaus g. 7, Vilniuje, kapitalinio remonto darbų su darbo projekto parengimu pirkimas";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72869;;;;
 2023;1;10106000;27;Prekės;445;44500000-5;"Raktų pakabukai su Vilniaus ženklu";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72842;;;;
+2023;"EOS 23";1017100;17;Prekės;349;34971000-4;"Vidutinio greičio matavimo sistem (toliau - VGMS) įrengimas";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;73016;;;;
 2023;AP-23;10200;97;Darbai;Darbai;45310000-3;"Pastato elektros instaliacijos tinklų sutvarkymo darbai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;73085;;;;
 2023;KAS-2023;1021150;1;Paslaugos;792;79211000-6;"Nekilnojamojo kultūros paveldo apskaitos dokumentų rengimas";188710061;;1;Y;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;73053;;;;
 2023;"ES 23";1020930;8;Paslaugos;798;79810000-5;"Spausdinimo paslaugos bešeimininkių statinių sąrašams paskelbti respublikiniame spausdinyje";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";III;Patvirtinta;72938;;;;
@@ -735,8 +735,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2023;VŠT2023;16400;13;Paslaugos;922;92215000-1;"Bendrojo judriojo radijo ryšio ir vietos identifikavimo paslaugos";188710061;"Viešosios tvarkos skyrius";3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;73077;;;;
 2023;AP-23;10200;2;Prekės;358;35821000-5;"Vėliavos ir jų stiebai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";II;Patvirtinta;72796;;;;
 2023;AP-23;10200;55;Paslaugos;601;60120000-5;"Taksi pavėžėjimas";188710061;;3;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72848;;;;
-2023;"2023 NT";1021030;4;Paslaugos;713;71354300-7;"Dūmtraukio Algirdo g. 48 kadastriniai matavimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72958;;;;
 2023;SIS2023;1090100;33;Paslaugos;722;72211000-7;"Programavimo paslaugos.";188710061;"2023 metų pirkimų planas";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;73018;;;;
+2023;"2023 NT";1021030;4;Paslaugos;713;71354300-7;"Dūmtraukio Algirdo g. 48 kadastriniai matavimai";188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72958;;;;
 2023;SPO-23;1021050;22;Darbai;Darbai;45212221-1;"Riedučių ir riedlenčių parko Fabijoniškėse rangos darbai su darbo projekto parengimu";188710061;;1;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;73036;;;;
 2023;AP-23;10200;76;Paslaugos;507;50750000-7;"Neįgaliųjų keltuvo priežiūros ir aptarnavimo paslaugos";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72856;;;;
 2023;AP-23;10200;76;Paslaugos;507;50750000-7;"Neįgaliųjų keltuvo priežiūros ir aptarnavimo paslaugos";188710061;;3;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72856;;;;
@@ -797,8 +797,8 @@ METAI;PIRK_PLANO_NR;PADALINIO_KODAS;EIL_NR;TIPAS;KATEG_KODAS;BVPZ_KODAS;PERK_OBJ
 2023;INF-2023;1020960;47;Prekės;449;44912100-7;"Granitiniai kelio bortai";188710061;"2023 m. Infrastruktūros skyriaus pirkimų planas";1;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;72944;;;;
 2023;SPO-23;1021050;19;Paslaugos;713;71319000-7;"Lengvosios atletikos maniežo, Žirmūnų g. 1H, Vilniuje, techninio projekto specialiosios (paveldosaugos) ekspertizės paslaugos";188710061;;1;N;N;N;N;"Atviras konkursas";I;Patvirtinta;72844;;;;
 2023;admin2023;16200;5;Paslaugos;504;50411000-9;"Triukšmo matuoklio patikra";188710061;"Administracinės veiklos skyrius";1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72946;;;;
-2023;"EOS 23";1017100;10;Darbai;Darbai;45316212-4;"Šviesoforų posto Olandų gatvėje ties Polocko viešojo transporto stotele projektavimo ir įrengimo darbai";188710061;;1;Y;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;73017;;;;
 2023;SPO-23;1021050;18;Paslaugos;712;71220000-6;"Mokslo paskirties pastato Žirmūnų g. 37, Vilniuje, rekonstravimo darbų, statinio projekto vykdymo priežiūros vadovo paslaugos";188710061;;2;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;72846;;;;
+2023;"EOS 23";1017100;10;Darbai;Darbai;45316212-4;"Šviesoforų posto Olandų gatvėje ties Polocko viešojo transporto stotele projektavimo ir įrengimo darbai";188710061;;1;Y;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";IV;Patvirtinta;73017;;;;
 2023;SPO-23;1021050;21;Darbai;Darbai;45000000-7;"Žirmūnų gimnazijos sporto aikštyno  rekonstrukcijos darbai su darbo projekto parengimu";188710061;;2;N;N;Y;N;"Atviras konkursas (supaprastintas pirkimas)";I;Patvirtinta;72969;;;;
 2023;1;10106000;88;Prekės;223;22315000-1;Nuotraukos;188710061;;1;N;N;N;N;"Mažos vertės pirkimai";I;Patvirtinta;72912;;;;
 2023;SPS-2023;1021040;1;Paslaugos;555;55500000-5;"Valgio benamiams pagaminimo ir  teikimo Vilniaus mieste paslaugos";188710061;;3;N;N;Y;N;"Atviras konkursas";I;Patvirtinta;72914;;;;
